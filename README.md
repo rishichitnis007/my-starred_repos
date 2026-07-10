@@ -7,7 +7,10 @@
 
 - [C](#c)
 - [C++](#c++)
+- [Dart](#dart)
 - [Go](#go)
+- [JavaScript](#javascript)
+- [Kotlin](#kotlin)
 - [Markdown](#markdown)
 - [Others](#others)
 - [Python](#python)
@@ -22,9 +25,23 @@
 
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 
+## Dart 
+
+- [Jayasakthi-07/YouTube-Downloader](https://github.com/Jayasakthi-07/YouTube-Downloader) - YouTube Downloader is a web-based tool that lets users download YouTube videos and audio in multiple formats and qualities, including HD and 4K. It supports video, audio-only, playlists, subtitles, an
+
 ## Go 
 
 - [Yash-Handa/logo-ls](https://github.com/Yash-Handa/logo-ls) - Modern ls command with vscode like File Icon and Git Integrations. Written in Golang
+
+## JavaScript 
+
+- [KernelShark/chameleon-ua-switcher](https://github.com/KernelShark/chameleon-ua-switcher) - 
+- [pumpzera/kick-auto-zap](https://github.com/pumpzera/kick-auto-zap) - Tampermonkey userscript that auto-switches between the live Kick channels you follow and tracks your session level/XP.
+
+## Kotlin 
+
+- [bhavinsomps/flexi](https://github.com/bhavinsomps/flexi) - A highly customizable Android Rounded Rectangle View. Supports gradient fills, animated gradient borders, corner radius, and soft shadows out-of-the-box.
+- [aungyelin/movie-db-kmp](https://github.com/aungyelin/movie-db-kmp) - A cross-platform movie database app built with Kotlin Multiplatform (KMP). Browse popular movies and view detailed information seamlessly across Android and iOS.
 
 ## Markdown 
 
@@ -39,6 +56,13 @@
 
 ## Python 
 
+- [Raj-glitch-max/kubernetes-llm-incident-response-benchmark](https://github.com/Raj-glitch-max/kubernetes-llm-incident-response-benchmark) - 
+- [syfr512/SweetrollLM](https://github.com/syfr512/SweetrollLM) - Local-first AI chat client combining SillyTavern-style character cards, LM Studio-style GGUF model management, Ollama/OpenAI-compatible APIs, and an agentic workspace.
+- [Priyanshu-byte-coder/contextrot](https://github.com/Priyanshu-byte-coder/contextrot) - Find out where your coding agent starts degrading. Personal context-rot analytics from your own sessions - 100% local, zero-config: uvx contextrot
+- [Herorif/INARA](https://github.com/Herorif/INARA) - Artificial Intelligence Assistance inspired by JARVIS
+- [MussabPro/DuoStats](https://github.com/MussabPro/DuoStats) - Duolingo progress visualizer with a daily-updated profile card, weekly chart, and stats explorer. Built with Python, GitHub Actions, and a static web UI.
+- [donaldraph/ares-ai](https://github.com/donaldraph/ares-ai) - Autonomous AI SRE platform with a single decision authority model, adaptive learning, and a tactical operations center dashboard — built for intelligent incident detection, triage, and response at sca
+- [TheBrainAir/amrkt](https://github.com/TheBrainAir/amrkt) - Async Python library for mrkt marketplace.
 - [Mehranalam/Diara-Colab](https://github.com/Mehranalam/Diara-Colab) - Diara Colab is an automatic article receiving service that is integrated with Google Scholar. It is designed to streamline the process of collecting and managing academic publications by automatically
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
 - [pluralsight/BlackCat](https://github.com/pluralsight/BlackCat) - Centralized reporting on GitHub dependency scanning outputs
@@ -61,6 +85,9 @@
 
 ## TypeScript 
 
+- [ignaciogarcia-dev/walty](https://github.com/ignaciogarcia-dev/walty) - On-chain crypto payment platform for individuals and businesses.
+- [jackson-peg/act-vite](https://github.com/jackson-peg/act-vite) - A developer framework for building Discord Activities. Handles OAuth, proxying, and participant tracking so you can focus on what matters.
+- [oscar-castaneda-dev/oscar-castaneda-website](https://github.com/oscar-castaneda-dev/oscar-castaneda-website) - Personal website showcasing my work in full-stack development, AI, and software engineering.
 - [Younesfdj/gitfut](https://github.com/Younesfdj/gitfut) - Your GitHub stats, turned into a World-Cup-style player card
 
 

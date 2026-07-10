@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [ansible](#ansible)
 - [api](#api)
 - [archlinux](#archlinux)
 - [awesome](#awesome)
@@ -12,10 +13,12 @@
 - [bash](#bash)
 - [c](#c)
 - [c-plus-plus](#c-plus-plus)
+- [cli](#cli)
 - [config](#config)
 - [cpp](#cpp)
 - [css](#css)
 - [dotfiles](#dotfiles)
+- [emacs](#emacs)
 - [framework](#framework)
 - [game-development](#game-development)
 - [game-engine](#game-engine)
@@ -30,12 +33,19 @@
 - [javascript](#javascript)
 - [library](#library)
 - [linux](#linux)
-- [lua](#lua)
-- [neovim](#neovim)
+- [malware](#malware)
 - [others](#others)
 - [python](#python)
+- [python3](#python3)
+- [security](#security)
+- [shell](#shell)
+- [terminal](#terminal)
 - [ui](#ui)
 - [zsh](#zsh)
+
+## ansible 
+
+- [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
 
 ## api 
 
@@ -47,16 +57,23 @@
 
 ## awesome 
 
+- [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
+- [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 
 ## awesome-list 
 
+- [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
+- [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 
 ## bash 
 
+- [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
+- [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [ChristianChiarulli/machfiles](https://github.com/ChristianChiarulli/machfiles) - The dotfiles you see in all my videos
 
 ## c 
@@ -66,6 +83,11 @@
 ## c-plus-plus 
 
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
+
+## cli 
+
+- [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
+- [fastapi/typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 
 ## config 
 
@@ -81,8 +103,12 @@
 
 ## dotfiles 
 
-- [JoosepAlviste/dotfiles](https://github.com/JoosepAlviste/dotfiles) - My dotfiles for Neovim, Kitty terminal, Zsh, and a few other things.
+- [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
 - [ChristianChiarulli/machfiles](https://github.com/ChristianChiarulli/machfiles) - The dotfiles you see in all my videos
+
+## emacs 
+
+- [neeasade/dotfiles](https://github.com/neeasade/dotfiles) - garden
 
 ## framework 
 
@@ -106,6 +132,7 @@
 
 ## github 
 
+- [pluralsight/BlackCat](https://github.com/pluralsight/BlackCat) - Centralized reporting on GitHub dependency scanning outputs
 - [drknzz/GitHub-Achievements](https://github.com/drknzz/GitHub-Achievements) - 🔥 A Complete List of GitHub Profile Badges and Achievements 🔥
 
 ## golang 
@@ -140,22 +167,48 @@
 
 - [ChristianChiarulli/machfiles](https://github.com/ChristianChiarulli/machfiles) - The dotfiles you see in all my videos
 
-## lua 
+## malware 
 
-- [JoosepAlviste/dotfiles](https://github.com/JoosepAlviste/dotfiles) - My dotfiles for Neovim, Kitty terminal, Zsh, and a few other things.
-
-## neovim 
-
-- [JoosepAlviste/dotfiles](https://github.com/JoosepAlviste/dotfiles) - My dotfiles for Neovim, Kitty terminal, Zsh, and a few other things.
+- [stamparm/maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system
 
 ## others 
 
+- [Mehranalam/Diara-Colab](https://github.com/Mehranalam/Diara-Colab) - Diara Colab is an automatic article receiving service that is integrated with Google Scholar. It is designed to streamline the process of collecting and managing academic publications by automatically
+- [endwall2/endware](https://github.com/endwall2/endware) - The Endware Suite
+- [psi-4ward/docker-powerdns](https://github.com/psi-4ward/docker-powerdns) - PowerDNS Docker Image based on Alpine
+- [basecamp/xip-pdns](https://github.com/basecamp/xip-pdns) - PowerDNS pipe backend adapter powering xip.io
+- [pmelson/narc](https://github.com/pmelson/narc) - 
+- [rishichitnis007-sys/dotfiles](https://github.com/rishichitnis007-sys/dotfiles) - My Dotfiles
+- [Younesfdj/gitfut](https://github.com/Younesfdj/gitfut) - Your GitHub stats, turned into a World-Cup-style player card
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [andrew8088/dotfiles](https://github.com/andrew8088/dotfiles) - My Dotfiles
 
 ## python 
 
+- [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
+- [stamparm/maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system
+- [fastapi/typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources
 - [BlackIQ/Hello-World](https://github.com/BlackIQ/Hello-World) - Hello World in different languages !
+
+## python3 
+
+- [fastapi/typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
+
+## security 
+
+- [pluralsight/BlackCat](https://github.com/pluralsight/BlackCat) - Centralized reporting on GitHub dependency scanning outputs
+- [stamparm/maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system
+
+## shell 
+
+- [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
+- [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
+- [fastapi/typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
+
+## terminal 
+
+- [fastapi/typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 
 ## ui 
 
@@ -163,7 +216,8 @@
 
 ## zsh 
 
-- [JoosepAlviste/dotfiles](https://github.com/JoosepAlviste/dotfiles) - My dotfiles for Neovim, Kitty terminal, Zsh, and a few other things.
+- [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
+- [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [hlissner/zsh-autopair](https://github.com/hlissner/zsh-autopair) - Auto-close and delete matching delimiters in zsh
 - [ChristianChiarulli/machfiles](https://github.com/ChristianChiarulli/machfiles) - The dotfiles you see in all my videos
 

@@ -48,6 +48,7 @@
 - [llm](#llm)
 - [macos](#macos)
 - [malware](#malware)
+- [markdown](#markdown)
 - [nextjs](#nextjs)
 - [nodejs](#nodejs)
 - [open-source](#open-source)
@@ -109,6 +110,7 @@
 
 ## awesome-list 
 
+- [Anmol-Baranwal/Cool-GIFs-For-GitHub](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub) - 🤝 Awesome List of GIFs & avatars to use in GitHub.
 - [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
@@ -260,6 +262,10 @@
 
 - [stamparm/maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system
 
+## markdown 
+
+- [Anmol-Baranwal/Cool-GIFs-For-GitHub](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub) - 🤝 Awesome List of GIFs & avatars to use in GitHub.
+
 ## nextjs 
 
 - [oscar-castaneda-dev/oscar-castaneda-website](https://github.com/oscar-castaneda-dev/oscar-castaneda-website) - Personal website showcasing my work in full-stack development, AI, and software engineering.
@@ -274,6 +280,9 @@
 
 ## others 
 
+- [rishichitnis007/awesome-github-profile-actions](https://github.com/rishichitnis007/awesome-github-profile-actions) - 😎 A curated list of Awesome github profile actions
+- [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) - 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
+- [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles) - List of GitHub profiles that have awesome customisation, that you can use for inspiration
 - [sebastiencs/icons-in-terminal](https://github.com/sebastiencs/icons-in-terminal) - Use any fonts in the terminal without replacing or patching
 - [bhavinsomps/flexi](https://github.com/bhavinsomps/flexi) - A highly customizable Android Rounded Rectangle View. Supports gradient fills, animated gradient borders, corner radius, and soft shadows out-of-the-box.
 - [Raj-glitch-max/kubernetes-llm-incident-response-benchmark](https://github.com/Raj-glitch-max/kubernetes-llm-incident-response-benchmark) - 

@@ -16,6 +16,7 @@
 - [Others](#others)
 - [Python](#python)
 - [Shell](#shell)
+- [Swift](#swift)
 - [TypeScript](#typescript)
 
 ## C 
@@ -36,10 +37,12 @@
 
 ## HTML 
 
+- [spaship/sidecar](https://github.com/spaship/sidecar) - 
 - [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles) - List of GitHub profiles that have awesome customisation, that you can use for inspiration
 
 ## JavaScript 
 
+- [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log) - A GitHub Action that automatically updates your README file with the latest activity from your GitHub account. Customize the displayed events, set a limit on the number of events, and ignore specific 
 - [KernelShark/chameleon-ua-switcher](https://github.com/KernelShark/chameleon-ua-switcher) - 
 - [pumpzera/kick-auto-zap](https://github.com/pumpzera/kick-auto-zap) - Tampermonkey userscript that auto-switches between the live Kick channels you follow and tracks your session level/XP.
 
@@ -64,6 +67,9 @@
 
 ## Python 
 
+- [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
+- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data
+- [gautamkrishnar/automation-scripts](https://github.com/gautamkrishnar/automation-scripts) - Some random scripts I had written for automating stuffs
 - [djui/alias-tips](https://github.com/djui/alias-tips) - An oh-my-zsh plugin to help remembering those aliases you defined once
 - [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints
 - [Raj-glitch-max/kubernetes-llm-incident-response-benchmark](https://github.com/Raj-glitch-max/kubernetes-llm-incident-response-benchmark) - 
@@ -84,6 +90,9 @@
 
 ## Shell 
 
+- [math0ne/dotfiles](https://github.com/math0ne/dotfiles) - :computer: Personal dotfiles orchestrated with GNU Stow and Ansible with a healthy splash of Docker
+- [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
+- [reobin/typewritten](https://github.com/reobin/typewritten) - A minimal, lightweight, informative zsh prompt theme
 - [zpm-zsh/zpm](https://github.com/zpm-zsh/zpm) - Zpm— Zsh Plugin Manager
 - [joseluisq/gitnow](https://github.com/joseluisq/gitnow) - Speed up your Git workflow. :tropical_fish:
 - [MichaelAquilina/zsh-you-should-use](https://github.com/MichaelAquilina/zsh-you-should-use) - 📎 ZSH plugin that reminds you to use existing aliases for commands you just typed
@@ -99,6 +108,10 @@
 - [andrew8088/dotfiles](https://github.com/andrew8088/dotfiles) - My Dotfiles
 - [hlissner/zsh-autopair](https://github.com/hlissner/zsh-autopair) - Auto-close and delete matching delimiters in zsh
 - [ChristianChiarulli/machfiles](https://github.com/ChristianChiarulli/machfiles) - The dotfiles you see in all my videos
+
+## Swift 
+
+- [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) - Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. ⭐ helps a ton :) Windows & iOS waitlist open. Linux soon.
 
 ## TypeScript 
 

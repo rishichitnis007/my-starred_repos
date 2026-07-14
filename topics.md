@@ -240,6 +240,7 @@
 
 ## hacktoberfest 
 
+- [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) - The largest curated collection of markdown badges for your personal developer branding, profile, and projects.
 - [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log) - A GitHub Action that automatically updates your README file with the latest activity from your GitHub account. Customize the displayed events, set a limit on the number of events, and ignore specific 
 - [reobin/typewritten](https://github.com/reobin/typewritten) - A minimal, lightweight, informative zsh prompt theme
 - [BlackIQ/Hello-World](https://github.com/BlackIQ/Hello-World) - Hello World in different languages !
@@ -297,6 +298,7 @@
 
 ## markdown 
 
+- [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) - The largest curated collection of markdown badges for your personal developer branding, profile, and projects.
 - [Anmol-Baranwal/Cool-GIFs-For-GitHub](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub) - 🤝 Awesome List of GIFs & avatars to use in GitHub.
 
 ## nextjs 

@@ -316,6 +316,7 @@
 
 ## others 
 
+- [Dartians/Dart-Cheatsheet](https://github.com/Dartians/Dart-Cheatsheet) - 
 - [spaship/sidecar](https://github.com/spaship/sidecar) - 
 - [gautamkrishnar/automation-scripts](https://github.com/gautamkrishnar/automation-scripts) - Some random scripts I had written for automating stuffs
 - [djui/alias-tips](https://github.com/djui/alias-tips) - An oh-my-zsh plugin to help remembering those aliases you defined once

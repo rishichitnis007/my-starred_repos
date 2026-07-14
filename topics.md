@@ -359,6 +359,7 @@
 
 ## others 
 
+- [Platane/snk](https://github.com/Platane/snk) - 🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif
 - [romkatv/zsh-defer](https://github.com/romkatv/zsh-defer) - Deferred execution of Zsh commands
 - [thegreatsourcerer/github-actions](https://github.com/thegreatsourcerer/github-actions) - A collection of Actions that I think are useful
 - [xAwakenDeveloper/Snowy-Coordinates](https://github.com/xAwakenDeveloper/Snowy-Coordinates) - Mod that shows player current coordinates for My Winter Car.

@@ -12,6 +12,7 @@
 - [ansible](#ansible)
 - [api](#api)
 - [archlinux](#archlinux)
+- [automation](#automation)
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
 - [bash](#bash)
@@ -23,6 +24,8 @@
 - [config](#config)
 - [cpp](#cpp)
 - [css](#css)
+- [database](#database)
+- [design](#design)
 - [developer-tools](#developer-tools)
 - [discord](#discord)
 - [docker](#docker)
@@ -79,6 +82,7 @@
 - [typescript](#typescript)
 - [ui](#ui)
 - [vue](#vue)
+- [workflow](#workflow)
 - [zsh](#zsh)
 
 ## ai 
@@ -114,6 +118,11 @@
 ## archlinux 
 
 - [ChristianChiarulli/machfiles](https://github.com/ChristianChiarulli/machfiles) - The dotfiles you see in all my videos
+
+## automation 
+
+- [Mergifyio/mergify](https://github.com/Mergifyio/mergify) - Mergify Community Issue Tracker
+- [GeanoFeeFoundry/geanos-scene-rotation](https://github.com/GeanoFeeFoundry/geanos-scene-rotation) - A Foundry VTT module to rotate entire scenes (Background, Walls, Lights, etc.) by 90 degrees.
 
 ## awesome 
 
@@ -175,6 +184,14 @@
 
 - [BlackIQ/Hello-World](https://github.com/BlackIQ/Hello-World) - Hello World in different languages !
 
+## database 
+
+- [BlackIQ/sqlalchemy_relationships](https://github.com/BlackIQ/sqlalchemy_relationships) - This repository contains simple examples of the three most common SQLAlchemy ORM relationships.
+
+## design 
+
+- [codeweb-dev/spark-ui](https://github.com/codeweb-dev/spark-ui) - A collection of beautifully crafted, accessible UI components and a flexible design system. Designed for modern web applications, easy customization, and fast development. Open source and developer-fr
+
 ## developer-tools 
 
 - [Priyanshu-byte-coder/devtrack](https://github.com/Priyanshu-byte-coder/devtrack) - Open-source developer productivity dashboard - GitHub stats, PR metrics, streaks & goals.
@@ -226,6 +243,7 @@
 
 ## git 
 
+- [Mergifyio/mergify](https://github.com/Mergifyio/mergify) - Mergify Community Issue Tracker
 - [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case.
 - [reobin/typewritten](https://github.com/reobin/typewritten) - A minimal, lightweight, informative zsh prompt theme
 - [joseluisq/gitnow](https://github.com/joseluisq/gitnow) - Speed up your Git workflow. :tropical_fish:
@@ -234,6 +252,7 @@
 
 ## github 
 
+- [Mergifyio/mergify](https://github.com/Mergifyio/mergify) - Mergify Community Issue Tracker
 - [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case.
 - [joseluisq/gitnow](https://github.com/joseluisq/gitnow) - Speed up your Git workflow. :tropical_fish:
 - [pluralsight/BlackCat](https://github.com/pluralsight/BlackCat) - Centralized reporting on GitHub dependency scanning outputs
@@ -275,6 +294,7 @@
 
 ## javascript 
 
+- [GeanoFeeFoundry/geanos-scene-rotation](https://github.com/GeanoFeeFoundry/geanos-scene-rotation) - A Foundry VTT module to rotate entire scenes (Background, Walls, Lights, etc.) by 90 degrees.
 - [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log) - A GitHub Action that automatically updates your README file with the latest activity from your GitHub account. Customize the displayed events, set a limit on the number of events, and ignore specific 
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data
 - [BlackIQ/Hello-World](https://github.com/BlackIQ/Hello-World) - Hello World in different languages !
@@ -289,6 +309,7 @@
 
 ## library 
 
+- [codeweb-dev/spark-ui](https://github.com/codeweb-dev/spark-ui) - A collection of beautifully crafted, accessible UI components and a flexible design system. Designed for modern web applications, easy customization, and fast development. Open source and developer-fr
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 
 ## linux 
@@ -327,6 +348,7 @@
 
 ## nodejs 
 
+- [tankdadank/cardian](https://github.com/tankdadank/cardian) - Discord card game bot with button driven UI, ranked play, SVS, and a companion website. Built for fair, replayable gameplay.
 - [jackson-peg/act-vite](https://github.com/jackson-peg/act-vite) - A developer framework for building Discord Activities. Handles OAuth, proxying, and participant tracking so you can focus on what matters.
 
 ## open-source 
@@ -337,6 +359,16 @@
 
 ## others 
 
+- [romkatv/zsh-defer](https://github.com/romkatv/zsh-defer) - Deferred execution of Zsh commands
+- [thegreatsourcerer/github-actions](https://github.com/thegreatsourcerer/github-actions) - A collection of Actions that I think are useful
+- [xAwakenDeveloper/Snowy-Coordinates](https://github.com/xAwakenDeveloper/Snowy-Coordinates) - Mod that shows player current coordinates for My Winter Car.
+- [TalVilozny/WageWise](https://github.com/TalVilozny/WageWise) - WageWise is a simple tool that reframes spending decisions in terms of time, not money.  Instead of asking “Can I afford this?”, WageWise asks a better question: “Is this worth the hours of my life it
+- [rushei1/lazy-researcher-toolkit](https://github.com/rushei1/lazy-researcher-toolkit) - A full-stack AI-powered application that automatically fetches, summarizes, clusters, and formats research papers into a structured literature review — saving researchers hours of manual effort.
+- [matheussilvagarcia/USB_Drive_File-_Passwords_and_Historic_Grapper](https://github.com/matheussilvagarcia/USB_Drive_File-_Passwords_and_Historic_Grapper) - Outdated REPO: https://github.com/HolmesXL-zz/USB-Drive-File-Passwords-and-Historic-Stealer
+- [MussabPro/KanaTest](https://github.com/MussabPro/KanaTest) - A fully offline, zero-dependency web app for learning and testing Japanese Hiragana and Katakana.
+- [TalVilozny/Gifted](https://github.com/TalVilozny/Gifted) - Gifted is a web app that helps you find the perfect gift by asking a few simple questions and generating personalized recommendations.
+- [ozankenangungor/p2p-dfs-node](https://github.com/ozankenangungor/p2p-dfs-node) - Content addressed libp2p DFS node with RocksDB storage and a local gRPC control plane
+- [Shrikant922/codecrafters-claude-code-java](https://github.com/Shrikant922/codecrafters-claude-code-java) - A from-scratch Java CLI agent with Read/Write/Bash tool-calling and an agentic loop, built via CodeCrafters using the openai-java SDK + OpenRouter (Claude Haiku 4.5).
 - [rishichitnis007/my-starred_repos](https://github.com/rishichitnis007/my-starred_repos) - 😃 Rishi’s Starred Repos
 - [keval101/trade-tracker](https://github.com/keval101/trade-tracker) - Built a trading tracker app to help people manage their investments. Users can record deposits, withdrawals, and trades. Charts help visualize performance, and an ROI sheet generator calculates goals 
 - [paulovenoy/venoyBot](https://github.com/paulovenoy/venoyBot) - 💚 BOT de WhatsApp com multi-funções e comandos!
@@ -376,6 +408,7 @@
 
 ## postgresql 
 
+- [BlackIQ/sqlalchemy_relationships](https://github.com/BlackIQ/sqlalchemy_relationships) - This repository contains simple examples of the three most common SQLAlchemy ORM relationships.
 - [Priyanshu-byte-coder/devtrack](https://github.com/Priyanshu-byte-coder/devtrack) - Open-source developer productivity dashboard - GitHub stats, PR metrics, streaks & goals.
 
 ## privacy 
@@ -393,6 +426,8 @@
 
 ## python 
 
+- [BlackIQ/sqlalchemy_relationships](https://github.com/BlackIQ/sqlalchemy_relationships) - This repository contains simple examples of the three most common SQLAlchemy ORM relationships.
+- [Mergifyio/mergify](https://github.com/Mergifyio/mergify) - Mergify Community Issue Tracker
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data
 - [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints
@@ -438,6 +473,7 @@
 
 ## shell 
 
+- [0rax/fishline](https://github.com/0rax/fishline) - A powerline prompt framework for the fish-shell built in fish-shell.
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [reobin/typewritten](https://github.com/reobin/typewritten) - A minimal, lightweight, informative zsh prompt theme
 - [zpm-zsh/zpm](https://github.com/zpm-zsh/zpm) - Zpm— Zsh Plugin Manager
@@ -479,11 +515,16 @@
 
 ## ui 
 
+- [codeweb-dev/spark-ui](https://github.com/codeweb-dev/spark-ui) - A collection of beautifully crafted, accessible UI components and a flexible design system. Designed for modern web applications, easy customization, and fast development. Open source and developer-fr
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 
 ## vue 
 
 - [jackson-peg/act-vite](https://github.com/jackson-peg/act-vite) - A developer framework for building Discord Activities. Handles OAuth, proxying, and participant tracking so you can focus on what matters.
+
+## workflow 
+
+- [Mergifyio/mergify](https://github.com/Mergifyio/mergify) - Mergify Community Issue Tracker
 
 ## zsh 
 

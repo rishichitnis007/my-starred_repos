@@ -103,7 +103,7 @@
 - [BlackIQ/sqlalchemy_relationships](https://github.com/BlackIQ/sqlalchemy_relationships) - This repository contains simple examples of the three most common SQLAlchemy ORM relationships.
 - [rushei1/lazy-researcher-toolkit](https://github.com/rushei1/lazy-researcher-toolkit) - A full-stack AI-powered application that automatically fetches, summarizes, clusters, and formats research papers into a structured literature review — saving researchers hours of manual effort.
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
-- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data
+- [PostHog/posthog](https://github.com/PostHog/posthog) - :hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – c
 - [gautamkrishnar/automation-scripts](https://github.com/gautamkrishnar/automation-scripts) - Some random scripts I had written for automating stuffs
 - [djui/alias-tips](https://github.com/djui/alias-tips) - An oh-my-zsh plugin to help remembering those aliases you defined once
 - [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints
@@ -161,6 +161,7 @@
 
 ## TypeScript 
 
+- [PiyushSuthar/github-readme-quotes](https://github.com/PiyushSuthar/github-readme-quotes) - 🔥 Add Programming Quotes To Your GitHub Readme
 - [Platane/snk](https://github.com/Platane/snk) - 🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif
 - [TalVilozny/WageWise](https://github.com/TalVilozny/WageWise) - WageWise is a simple tool that reframes spending decisions in terms of time, not money.  Instead of asking “Can I afford this?”, WageWise asks a better question: “Is this worth the hours of my life it
 - [codeweb-dev/spark-ui](https://github.com/codeweb-dev/spark-ui) - A collection of beautifully crafted, accessible UI components and a flexible design system. Designed for modern web applications, easy customization, and fast development. Open source and developer-fr

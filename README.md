@@ -49,6 +49,7 @@
 
 ## Go 
 
+- [github/gh-ost](https://github.com/github/gh-ost) - GitHub's Online Schema-migration Tool for MySQL
 - [Raj-glitch-max/atlas](https://github.com/Raj-glitch-max/atlas) - 
 - [Yash-Handa/logo-ls](https://github.com/Yash-Handa/logo-ls) - Modern ls command with vscode like File Icon and Git Integrations. Written in Golang
 
@@ -85,6 +86,7 @@
 
 ## Others 
 
+- [rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux) - A list of awesome resources for tmux
 - [Mergifyio/mergify](https://github.com/Mergifyio/mergify) - Mergify Community Issue Tracker
 - [thegreatsourcerer/github-actions](https://github.com/thegreatsourcerer/github-actions) - A collection of Actions that I think are useful
 - [tankdadank/cardian](https://github.com/tankdadank/cardian) - Discord card game bot with button driven UI, ranked play, SVS, and a companion website. Built for fair, replayable gameplay.

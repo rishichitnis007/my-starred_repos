@@ -167,6 +167,7 @@
 
 ## TypeScript 
 
+- [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [PiyushSuthar/github-readme-quotes](https://github.com/PiyushSuthar/github-readme-quotes) - 🔥 Add Programming Quotes To Your GitHub Readme
 - [Platane/snk](https://github.com/Platane/snk) - 🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif
 - [TalVilozny/WageWise](https://github.com/TalVilozny/WageWise) - WageWise is a simple tool that reframes spending decisions in terms of time, not money.  Instead of asking “Can I afford this?”, WageWise asks a better question: “Is this worth the hours of my life it

@@ -437,6 +437,8 @@
 
 ## others 
 
+- [Lewisscrivens/TBImGui](https://github.com/Lewisscrivens/TBImGui) - 
+- [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 - [ozankenangungor/ClearScroll](https://github.com/ozankenangungor/ClearScroll) - Local AI Chrome extension that semantically blocks distracting content in real time.
 - [rafaelxo/AEDS](https://github.com/rafaelxo/AEDS) - 
 - [SIMARSINGHRAYAT/REPOSWIPE](https://github.com/SIMARSINGHRAYAT/REPOSWIPE) - RepoSwipe: A Swipe-Based Repository Discovery Gamified Interface for Exploring Open-Source Projects on GitHub

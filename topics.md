@@ -12,6 +12,7 @@
 - [ansible](#ansible)
 - [api](#api)
 - [archlinux](#archlinux)
+- [arduino](#arduino)
 - [automation](#automation)
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
@@ -37,7 +38,7 @@
 - [dotfiles](#dotfiles)
 - [dotnet](#dotnet)
 - [emacs](#emacs)
-- [embedded](#embedded)
+- [esp32](#esp32)
 - [ethereum](#ethereum)
 - [express](#express)
 - [fastapi](#fastapi)
@@ -139,6 +140,10 @@
 
 - [ChristianChiarulli/machfiles](https://github.com/ChristianChiarulli/machfiles) - The dotfiles you see in all my videos
 
+## arduino 
+
+- [lvgl/lvgl](https://github.com/lvgl/lvgl) - LVGL is a free, full-featured embedded UI library for devices from small MCUs to 3D-capable MPUs, enhanced by LVGL Pro, a professional editor and tooling.
+
 ## automation 
 
 - [pumpzera/pdf-word-replacer](https://github.com/pumpzera/pdf-word-replacer) - Python CLI to replace visible PDF text with font-aware fallback and cleaner word spacing.
@@ -181,7 +186,7 @@
 
 ## c 
 
-- [lvgl/lvgl](https://github.com/lvgl/lvgl) - Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.
+- [lvgl/lvgl](https://github.com/lvgl/lvgl) - LVGL is a free, full-featured embedded UI library for devices from small MCUs to 3D-capable MPUs, enhanced by LVGL Pro, a professional editor and tooling.
 - [glfw/glfw](https://github.com/glfw/glfw) - A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input
 - [rohingosling/data-probe](https://github.com/rohingosling/data-probe) - DOS HEX editor.
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
@@ -221,6 +226,7 @@
 
 ## cpp 
 
+- [lvgl/lvgl](https://github.com/lvgl/lvgl) - LVGL is a free, full-featured embedded UI library for devices from small MCUs to 3D-capable MPUs, enhanced by LVGL Pro, a professional editor and tooling.
 - [rohingosling/data-probe](https://github.com/rohingosling/data-probe) - DOS HEX editor.
 - [Turtle-PB/imgui_xl](https://github.com/Turtle-PB/imgui_xl) - Dear ImGui XL - Enhanced fork for community contributions, backend improvements, and extended examples. Bloat-free Graphical User interface for C++ with minimal dependencies.
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
@@ -274,9 +280,9 @@
 - [math0ne/dotfiles](https://github.com/math0ne/dotfiles) - :computer: Personal dotfiles orchestrated with GNU Stow and Ansible with a healthy splash of Docker
 - [neeasade/dotfiles](https://github.com/neeasade/dotfiles) - garden
 
-## embedded 
+## esp32 
 
-- [lvgl/lvgl](https://github.com/lvgl/lvgl) - Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.
+- [lvgl/lvgl](https://github.com/lvgl/lvgl) - LVGL is a free, full-featured embedded UI library for devices from small MCUs to 3D-capable MPUs, enhanced by LVGL Pro, a professional editor and tooling.
 
 ## ethereum 
 
@@ -336,7 +342,6 @@
 
 ## gui 
 
-- [lvgl/lvgl](https://github.com/lvgl/lvgl) - Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.
 - [Turtle-PB/imgui_xl](https://github.com/Turtle-PB/imgui_xl) - Dear ImGui XL - Enhanced fork for community contributions, backend improvements, and extended examples. Bloat-free Graphical User interface for C++ with minimal dependencies.
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 
@@ -396,6 +401,7 @@
 
 ## linux 
 
+- [lvgl/lvgl](https://github.com/lvgl/lvgl) - LVGL is a free, full-featured embedded UI library for devices from small MCUs to 3D-capable MPUs, enhanced by LVGL Pro, a professional editor and tooling.
 - [glfw/glfw](https://github.com/glfw/glfw) - A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input
 - [zpm-zsh/zpm](https://github.com/zpm-zsh/zpm) - Zpm— Zsh Plugin Manager
 - [ChristianChiarulli/machfiles](https://github.com/ChristianChiarulli/machfiles) - The dotfiles you see in all my videos
@@ -667,6 +673,7 @@
 
 ## ui 
 
+- [lvgl/lvgl](https://github.com/lvgl/lvgl) - LVGL is a free, full-featured embedded UI library for devices from small MCUs to 3D-capable MPUs, enhanced by LVGL Pro, a professional editor and tooling.
 - [codeweb-dev/spark-ui](https://github.com/codeweb-dev/spark-ui) - A collection of beautifully crafted, accessible UI components and a flexible design system. Designed for modern web applications, easy customization, and fast development. Open source and developer-fr
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 

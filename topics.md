@@ -462,6 +462,7 @@
 
 ## others 
 
+- [erfansaberi/cfir-multihop-reasoning](https://github.com/erfansaberi/cfir-multihop-reasoning) - Lightweight Multi-Hop Reasoning for Composed Fashion Image Retrieval: A minimal PyTorch implementation of **Yang & Ma, "Enhanced composed fashion image retrieval with a multi-hop reasoning framework"*
 - [fastify/fastify-static](https://github.com/fastify/fastify-static) - Plugin for serving static files as fast as possible
 - [Lewisscrivens/TBImGui](https://github.com/Lewisscrivens/TBImGui) - 
 - [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.

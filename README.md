@@ -127,6 +127,7 @@
 
 ## Python 
 
+- [erfansaberi/cfir-multihop-reasoning](https://github.com/erfansaberi/cfir-multihop-reasoning) - Lightweight Multi-Hop Reasoning for Composed Fashion Image Retrieval: A minimal PyTorch implementation of **Yang & Ma, "Enhanced composed fashion image retrieval with a multi-hop reasoning framework"*
 - [denysdovhan/ha-aerial-danger](https://github.com/denysdovhan/ha-aerial-danger) - 💥 Aerial dangers monitoring (due to war in Ukraine) integration for Home Assistant.
 - [BradenM/micropy-cli](https://github.com/BradenM/micropy-cli) - Micropython Project Management Tool with VSCode support, Linting, Intellisense, Dependency Management, and more!
 - [hernan0930/Diffusart-CVPRW](https://github.com/hernan0930/Diffusart-CVPRW) - Implementation of Diffusart from CVPR 2023

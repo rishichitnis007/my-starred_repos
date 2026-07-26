@@ -462,6 +462,7 @@
 
 ## others 
 
+- [soulteary/github-readme-stats-action](https://github.com/soulteary/github-readme-stats-action) - Generate GitHub Readme Stats cards in your GitHub Actions workflow, commit them to your profile repository, and embed them directly from there.
 - [erfansaberi/cfir-multihop-reasoning](https://github.com/erfansaberi/cfir-multihop-reasoning) - Lightweight Multi-Hop Reasoning for Composed Fashion Image Retrieval: A minimal PyTorch implementation of **Yang & Ma, "Enhanced composed fashion image retrieval with a multi-hop reasoning framework"*
 - [fastify/fastify-static](https://github.com/fastify/fastify-static) - Plugin for serving static files as fast as possible
 - [Lewisscrivens/TBImGui](https://github.com/Lewisscrivens/TBImGui) - 

@@ -174,6 +174,7 @@
 
 ## Shell 
 
+- [soulteary/github-readme-stats-action](https://github.com/soulteary/github-readme-stats-action) - Generate GitHub Readme Stats cards in your GitHub Actions workflow, commit them to your profile repository, and embed them directly from there.
 - [dracula/zsh](https://github.com/dracula/zsh) - 🧛🏻‍♂️ Dark theme for ZSH
 - [MichaelRogerss/Shred](https://github.com/MichaelRogerss/Shred) - A lightweight, cross-compatible secure file overwrite utility written in shell. Intended for MacOS.
 - [hidessh99/xray-publik](https://github.com/hidessh99/xray-publik) - auto installer Xray

@@ -18,6 +18,7 @@
 - [LLVM](#llvm)
 - [Markdown](#markdown)
 - [Others](#others)
+- [PHP](#php)
 - [Python](#python)
 - [Rust](#rust)
 - [SCSS](#scss)
@@ -58,6 +59,7 @@
 
 ## Go 
 
+- [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [github/gh-ost](https://github.com/github/gh-ost) - GitHub's Online Schema-migration Tool for MySQL
 - [Raj-glitch-max/atlas](https://github.com/Raj-glitch-max/atlas) - 
 - [Yash-Handa/logo-ls](https://github.com/Yash-Handa/logo-ls) - Modern ls command with vscode like File Icon and Git Integrations. Written in Golang
@@ -73,6 +75,7 @@
 
 ## Java 
 
+- [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [rafaelxo/AEDS](https://github.com/rafaelxo/AEDS) - 
 - [noel-mugisha/Spring-Auth-Service](https://github.com/noel-mugisha/Spring-Auth-Service) - A comprehensive security repo for modern Java backend applications. The only identity provider you’ll ever need.
 - [Shrikant922/codecrafters-claude-code-java](https://github.com/Shrikant922/codecrafters-claude-code-java) - A from-scratch Java CLI agent with Read/Write/Bash tool-calling and an agentic loop, built via CodeCrafters using the openai-java SDK + OpenRouter (Claude Haiku 4.5).
@@ -125,6 +128,10 @@
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 
+## PHP 
+
+- [livewire/livewire](https://github.com/livewire/livewire) - A full-stack framework for Laravel that takes the pain out of building dynamic UIs.
+
 ## Python 
 
 - [erfansaberi/cfir-multihop-reasoning](https://github.com/erfansaberi/cfir-multihop-reasoning) - Lightweight Multi-Hop Reasoning for Composed Fashion Image Retrieval: A minimal PyTorch implementation of **Yang & Ma, "Enhanced composed fashion image retrieval with a multi-hop reasoning framework"*
@@ -174,6 +181,8 @@
 
 ## Shell 
 
+- [unixorn/zsh-quickstart-kit](https://github.com/unixorn/zsh-quickstart-kit) - A simple ZSH quickstart for using ZSH, zgenom, oh-my-zsh and a curated list of extra plugins. It is designed to be easy to customize without requiring you to maintain your own fork.
+- [nickeb96/puffer-fish](https://github.com/nickeb96/puffer-fish) - 🐡 Text Expansions for Fish
 - [soulteary/github-readme-stats-action](https://github.com/soulteary/github-readme-stats-action) - Generate GitHub Readme Stats cards in your GitHub Actions workflow, commit them to your profile repository, and embed them directly from there.
 - [dracula/zsh](https://github.com/dracula/zsh) - 🧛🏻‍♂️ Dark theme for ZSH
 - [MichaelRogerss/Shred](https://github.com/MichaelRogerss/Shred) - A lightweight, cross-compatible secure file overwrite utility written in shell. Intended for MacOS.
@@ -207,6 +216,7 @@
 
 ## TypeScript 
 
+- [TanStack/router](https://github.com/TanStack/router) - 🤖 A client-first, server-capable, fully type-safe router and full-stack framework for the web (React and more).
 - [ozankenangungor/ClearScroll](https://github.com/ozankenangungor/ClearScroll) - Local AI Chrome extension that semantically blocks distracting content in real time.
 - [SIMARSINGHRAYAT/REPOSWIPE](https://github.com/SIMARSINGHRAYAT/REPOSWIPE) - RepoSwipe: A Swipe-Based Repository Discovery Gamified Interface for Exploring Open-Source Projects on GitHub
 - [Flavionz/casa-steph-iberico](https://github.com/Flavionz/casa-steph-iberico) - Full-stack e-commerce application for authentic Spanish products. Built with React, TypeScript, Node.js, Prisma ORM, and TailwindCSS. Features product catalog, category filtering, and responsive desig

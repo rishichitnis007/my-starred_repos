@@ -468,6 +468,8 @@
 
 ## others 
 
+- [bazelbuild/bazel](https://github.com/bazelbuild/bazel) - a fast, scalable, multi-language and extensible build system
+- [actions/checkout](https://github.com/actions/checkout) - Action for checking out a repo
 - [livewire/livewire](https://github.com/livewire/livewire) - A full-stack framework for Laravel that takes the pain out of building dynamic UIs.
 - [nickeb96/puffer-fish](https://github.com/nickeb96/puffer-fish) - 🐡 Text Expansions for Fish
 - [soulteary/github-readme-stats-action](https://github.com/soulteary/github-readme-stats-action) - Generate GitHub Readme Stats cards in your GitHub Actions workflow, commit them to your profile repository, and embed them directly from there.

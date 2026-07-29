@@ -59,6 +59,7 @@
 
 ## Go 
 
+- [golang/go](https://github.com/golang/go) - The Go programming language
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [github/gh-ost](https://github.com/github/gh-ost) - GitHub's Online Schema-migration Tool for MySQL
 - [Raj-glitch-max/atlas](https://github.com/Raj-glitch-max/atlas) - 
@@ -217,6 +218,7 @@
 
 ## TypeScript 
 
+- [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [actions/checkout](https://github.com/actions/checkout) - Action for checking out a repo
 - [TanStack/router](https://github.com/TanStack/router) - 🤖 A client-first, server-capable, fully type-safe router and full-stack framework for the web (React and more).
 - [ozankenangungor/ClearScroll](https://github.com/ozankenangungor/ClearScroll) - Local AI Chrome extension that semantically blocks distracting content in real time.

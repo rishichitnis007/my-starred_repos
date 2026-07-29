@@ -37,6 +37,7 @@
 - [docker](#docker)
 - [dotfiles](#dotfiles)
 - [dotnet](#dotnet)
+- [electron](#electron)
 - [emacs](#emacs)
 - [esp32](#esp32)
 - [ethereum](#ethereum)
@@ -49,6 +50,7 @@
 - [git](#git)
 - [github](#github)
 - [github-api](#github-api)
+- [go](#go)
 - [golang](#golang)
 - [gui](#gui)
 - [hacktoberfest](#hacktoberfest)
@@ -66,6 +68,7 @@
 - [macos](#macos)
 - [malware](#malware)
 - [markdown](#markdown)
+- [microsoft](#microsoft)
 - [minecraft](#minecraft)
 - [mysql](#mysql)
 - [nextjs](#nextjs)
@@ -77,6 +80,7 @@
 - [postgresql](#postgresql)
 - [privacy](#privacy)
 - [productivity](#productivity)
+- [programming-language](#programming-language)
 - [pwa](#pwa)
 - [python](#python)
 - [python3](#python3)
@@ -278,6 +282,10 @@
 
 - [amasen02/fastdl](https://github.com/amasen02/fastdl) - FastDL (fdl) — a fast multi-connection segmented download accelerator (CLI, .NET 10): mirror striping, resume, folder crawl, zip extract/pack.
 
+## electron 
+
+- [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
+
 ## emacs 
 
 - [math0ne/dotfiles](https://github.com/math0ne/dotfiles) - :computer: Personal dotfiles orchestrated with GNU Stow and Ansible with a healthy splash of Docker
@@ -340,8 +348,13 @@
 
 - [Priyanshu-byte-coder/devtrack](https://github.com/Priyanshu-byte-coder/devtrack) - Open-source developer productivity dashboard - GitHub stats, PR metrics, streaks & goals.
 
+## go 
+
+- [golang/go](https://github.com/golang/go) - The Go programming language
+
 ## golang 
 
+- [golang/go](https://github.com/golang/go) - The Go programming language
 - [Yash-Handa/logo-ls](https://github.com/Yash-Handa/logo-ls) - Modern ls command with vscode like File Icon and Git Integrations. Written in Golang
 
 ## gui 
@@ -394,6 +407,7 @@
 
 ## language 
 
+- [golang/go](https://github.com/golang/go) - The Go programming language
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 
 ## learning 
@@ -434,6 +448,10 @@
 
 - [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) - The largest curated collection of markdown badges for your personal developer branding, profile, and projects.
 - [Anmol-Baranwal/Cool-GIFs-For-GitHub](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub) - 🤝 Awesome List of GIFs & avatars to use in GitHub.
+
+## microsoft 
+
+- [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 
 ## minecraft 
 
@@ -562,6 +580,10 @@
 - [Priyanshu-byte-coder/devtrack](https://github.com/Priyanshu-byte-coder/devtrack) - Open-source developer productivity dashboard - GitHub stats, PR metrics, streaks & goals.
 - [MichaelAquilina/zsh-you-should-use](https://github.com/MichaelAquilina/zsh-you-should-use) - 📎 ZSH plugin that reminds you to use existing aliases for commands you just typed
 
+## programming-language 
+
+- [golang/go](https://github.com/golang/go) - The Go programming language
+
 ## pwa 
 
 - [syfr512/SweetrollLM](https://github.com/syfr512/SweetrollLM) - Local-first AI chat client combining SillyTavern-style character cards, LM Studio-style GGUF model management, Ollama/OpenAI-compatible APIs, and an agentic workspace.
@@ -682,6 +704,7 @@
 
 ## typescript 
 
+- [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [TanStack/router](https://github.com/TanStack/router) - 🤖 A client-first, server-capable, fully type-safe router and full-stack framework for the web (React and more).
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [Priyanshu-byte-coder/devtrack](https://github.com/Priyanshu-byte-coder/devtrack) - Open-source developer productivity dashboard - GitHub stats, PR metrics, streaks & goals.
@@ -702,6 +725,7 @@
 
 ## visual-studio-code 
 
+- [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [BradenM/micropy-cli](https://github.com/BradenM/micropy-cli) - Micropython Project Management Tool with VSCode support, Linting, Intellisense, Dependency Management, and more!
 
 ## vue 

@@ -88,6 +88,7 @@
 
 ## JavaScript 
 
+- [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) - Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed
 - [fastify/fastify-static](https://github.com/fastify/fastify-static) - Plugin for serving static files as fast as possible
 - [Gecko51/feedex](https://github.com/Gecko51/feedex) - Chrome extension for LinkedIn part of the the Gecko Mind package.
 - [vishwateja231/connectfy](https://github.com/vishwateja231/connectfy) - 
@@ -179,6 +180,7 @@
 
 ## Rust 
 
+- [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) - Next Generation Agentic Proxy for AI Agents and MCP servers
 - [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - Community-built comprehensive 2D content creation appplication for graphic design, digital art, and interactive real-time motion graphics powered by a node-based procedural graphics engine
 - [harshdoesdev/rayql](https://github.com/harshdoesdev/rayql) - RayQL is a schema definition and query language for SQLite
 - [ozankenangungor/p2p-dfs-node](https://github.com/ozankenangungor/p2p-dfs-node) - Content addressed libp2p DFS node with RocksDB storage and a local gRPC control plane
@@ -189,6 +191,7 @@
 
 ## Shell 
 
+- [acomagu/fish-async-prompt](https://github.com/acomagu/fish-async-prompt) - Make your prompt asynchronous to improve the reactivity.
 - [meaningful-ooo/sponge](https://github.com/meaningful-ooo/sponge) - 🧽 Clean fish history from typos automatically
 - [unixorn/zsh-quickstart-kit](https://github.com/unixorn/zsh-quickstart-kit) - A simple ZSH quickstart for using ZSH, zgenom, oh-my-zsh and a curated list of extra plugins. It is designed to be easy to customize without requiring you to maintain your own fork.
 - [nickeb96/puffer-fish](https://github.com/nickeb96/puffer-fish) - 🐡 Text Expansions for Fish

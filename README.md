@@ -39,6 +39,7 @@
 
 ## C# # 
 
+- [HexaEngine/Hexa.NET.ImGui](https://github.com/HexaEngine/Hexa.NET.ImGui) - A .NET wrapper for the Dear ImGui.
 - [amasen02/fastdl](https://github.com/amasen02/fastdl) - FastDL (fdl) — a fast multi-connection segmented download accelerator (CLI, .NET 10): mirror striping, resume, folder crawl, zip extract/pack.
 - [xAwakenDeveloper/Snowy-Coordinates](https://github.com/xAwakenDeveloper/Snowy-Coordinates) - Mod that shows player current coordinates for My Winter Car.
 
@@ -54,11 +55,13 @@
 
 ## Dart 
 
+- [pounat/absorb](https://github.com/pounat/absorb) - A cross platform Audiobookshelf client for Android and iOS
 - [Dartians/Dart-Cheatsheet](https://github.com/Dartians/Dart-Cheatsheet) - 
 - [Jayasakthi-07/YouTube-Downloader](https://github.com/Jayasakthi-07/YouTube-Downloader) - YouTube Downloader is a web-based tool that lets users download YouTube videos and audio in multiple formats and qualities, including HD and 4K. It supports video, audio-only, playlists, subtitles, an
 
 ## Go 
 
+- [soroushalinia/backupd](https://github.com/soroushalinia/backupd) - Declarative S3-compatible backup daemon: incremental delta backups, AES-256-GCM encryption, retention policies, cron scheduling, and hooks
 - [golang/go](https://github.com/golang/go) - The Go programming language
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [github/gh-ost](https://github.com/github/gh-ost) - GitHub's Online Schema-migration Tool for MySQL
@@ -132,10 +135,12 @@
 
 ## PHP 
 
+- [artisan-build/ext-ffmpeg](https://github.com/artisan-build/ext-ffmpeg) - Native PHP extension binding the FFmpeg libraries (pure C / Zend API). An Artisan Build project.
 - [livewire/livewire](https://github.com/livewire/livewire) - A full-stack framework for Laravel that takes the pain out of building dynamic UIs.
 
 ## Python 
 
+- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
 - [erfansaberi/cfir-multihop-reasoning](https://github.com/erfansaberi/cfir-multihop-reasoning) - Lightweight Multi-Hop Reasoning for Composed Fashion Image Retrieval: A minimal PyTorch implementation of **Yang & Ma, "Enhanced composed fashion image retrieval with a multi-hop reasoning framework"*
 - [denysdovhan/ha-aerial-danger](https://github.com/denysdovhan/ha-aerial-danger) - 💥 Aerial dangers monitoring (due to war in Ukraine) integration for Home Assistant.
 - [BradenM/micropy-cli](https://github.com/BradenM/micropy-cli) - Micropython Project Management Tool with VSCode support, Linting, Intellisense, Dependency Management, and more!
@@ -174,6 +179,7 @@
 
 ## Rust 
 
+- [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - Community-built comprehensive 2D content creation appplication for graphic design, digital art, and interactive real-time motion graphics powered by a node-based procedural graphics engine
 - [harshdoesdev/rayql](https://github.com/harshdoesdev/rayql) - RayQL is a schema definition and query language for SQLite
 - [ozankenangungor/p2p-dfs-node](https://github.com/ozankenangungor/p2p-dfs-node) - Content addressed libp2p DFS node with RocksDB storage and a local gRPC control plane
 
@@ -183,6 +189,7 @@
 
 ## Shell 
 
+- [meaningful-ooo/sponge](https://github.com/meaningful-ooo/sponge) - 🧽 Clean fish history from typos automatically
 - [unixorn/zsh-quickstart-kit](https://github.com/unixorn/zsh-quickstart-kit) - A simple ZSH quickstart for using ZSH, zgenom, oh-my-zsh and a curated list of extra plugins. It is designed to be easy to customize without requiring you to maintain your own fork.
 - [nickeb96/puffer-fish](https://github.com/nickeb96/puffer-fish) - 🐡 Text Expansions for Fish
 - [soulteary/github-readme-stats-action](https://github.com/soulteary/github-readme-stats-action) - Generate GitHub Readme Stats cards in your GitHub Actions workflow, commit them to your profile repository, and embed them directly from there.
@@ -212,6 +219,8 @@
 
 ## Swift 
 
+- [digimata/quill](https://github.com/digimata/quill) - Ultra-minimalist macOS recording + transcription.
+- [drumih/turbo-fieldfare](https://github.com/drumih/turbo-fieldfare) - Gemma 4 26B-A4B inference in ~2 GB of RAM on any M-series MacBook
 - [aymandakirgh/ghnotch](https://github.com/aymandakirgh/ghnotch) - Free open-source macOS notch utility with AI command bar. Media controls, calendar, file shelf, battery HUD — all in your notch. MIT license.
 - [dweep-desai/FaceGate-Mac](https://github.com/dweep-desai/FaceGate-Mac) - World's first Face Authentication enabled MacOS App-locker, completely free and open-source. Unlock your Mac apps using Face , TouchID or password. Completely local and encrypted - your data never lea
 - [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) - Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. ⭐ helps a ton :) Windows & iOS waitlist open. Linux soon.

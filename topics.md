@@ -29,10 +29,14 @@
 - [cpp](#cpp)
 - [csharp](#csharp)
 - [css](#css)
+- [data-analysis](#data-analysis)
+- [data-science](#data-science)
+- [data-visualization](#data-visualization)
 - [database](#database)
 - [deep-learning](#deep-learning)
 - [design](#design)
 - [developer-tools](#developer-tools)
+- [devops](#devops)
 - [discord](#discord)
 - [docker](#docker)
 - [dotfiles](#dotfiles)
@@ -56,6 +60,7 @@
 - [hacktoberfest](#hacktoberfest)
 - [home-assistant](#home-assistant)
 - [html](#html)
+- [image-processing](#image-processing)
 - [ios](#ios)
 - [java](#java)
 - [javascript](#javascript)
@@ -65,6 +70,7 @@
 - [library](#library)
 - [linux](#linux)
 - [llm](#llm)
+- [machine-learning](#machine-learning)
 - [macos](#macos)
 - [malware](#malware)
 - [markdown](#markdown)
@@ -239,11 +245,24 @@
 
 ## csharp 
 
+- [HexaEngine/Hexa.NET.ImGui](https://github.com/HexaEngine/Hexa.NET.ImGui) - A .NET wrapper for the Dear ImGui.
 - [amasen02/fastdl](https://github.com/amasen02/fastdl) - FastDL (fdl) — a fast multi-connection segmented download accelerator (CLI, .NET 10): mirror striping, resume, folder crawl, zip extract/pack.
 
 ## css 
 
 - [BlackIQ/Hello-World](https://github.com/BlackIQ/Hello-World) - Hello World in different languages !
+
+## data-analysis 
+
+- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
+
+## data-science 
+
+- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
+
+## data-visualization 
+
+- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
 
 ## database 
 
@@ -251,17 +270,24 @@
 
 ## deep-learning 
 
+- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
 - [hernan0930/Diffusart-CVPRW](https://github.com/hernan0930/Diffusart-CVPRW) - Implementation of Diffusart from CVPR 2023
 
 ## design 
 
+- [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - Community-built comprehensive 2D content creation appplication for graphic design, digital art, and interactive real-time motion graphics powered by a node-based procedural graphics engine
 - [codeweb-dev/spark-ui](https://github.com/codeweb-dev/spark-ui) - A collection of beautifully crafted, accessible UI components and a flexible design system. Designed for modern web applications, easy customization, and fast development. Open source and developer-fr
 
 ## developer-tools 
 
+- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
 - [Priyanshu-byte-coder/devtrack](https://github.com/Priyanshu-byte-coder/devtrack) - Open-source developer productivity dashboard - GitHub stats, PR metrics, streaks & goals.
 - [Priyanshu-byte-coder/contextrot](https://github.com/Priyanshu-byte-coder/contextrot) - Find out where your coding agent starts degrading. Personal context-rot analytics from your own sessions - 100% local, zero-config: uvx contextrot
 - [jackson-peg/act-vite](https://github.com/jackson-peg/act-vite) - A developer framework for building Discord Activities. Handles OAuth, proxying, and participant tracking so you can focus on what matters.
+
+## devops 
+
+- [soroushalinia/backupd](https://github.com/soroushalinia/backupd) - Declarative S3-compatible backup daemon: incremental delta backups, AES-256-GCM encryption, retention policies, cron scheduling, and hooks
 
 ## discord 
 
@@ -350,10 +376,12 @@
 
 ## go 
 
+- [soroushalinia/backupd](https://github.com/soroushalinia/backupd) - Declarative S3-compatible backup daemon: incremental delta backups, AES-256-GCM encryption, retention policies, cron scheduling, and hooks
 - [golang/go](https://github.com/golang/go) - The Go programming language
 
 ## golang 
 
+- [soroushalinia/backupd](https://github.com/soroushalinia/backupd) - Declarative S3-compatible backup daemon: incremental delta backups, AES-256-GCM encryption, retention policies, cron scheduling, and hooks
 - [golang/go](https://github.com/golang/go) - The Go programming language
 - [Yash-Handa/logo-ls](https://github.com/Yash-Handa/logo-ls) - Modern ls command with vscode like File Icon and Git Integrations. Written in Golang
 
@@ -379,6 +407,10 @@
 ## html 
 
 - [BlackIQ/Hello-World](https://github.com/BlackIQ/Hello-World) - Hello World in different languages !
+
+## image-processing 
+
+- [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - Community-built comprehensive 2D content creation appplication for graphic design, digital art, and interactive real-time motion graphics powered by a node-based procedural graphics engine
 
 ## ios 
 
@@ -428,11 +460,17 @@
 
 ## llm 
 
+- [drumih/turbo-fieldfare](https://github.com/drumih/turbo-fieldfare) - Gemma 4 26B-A4B inference in ~2 GB of RAM on any M-series MacBook
 - [syfr512/SweetrollLM](https://github.com/syfr512/SweetrollLM) - Local-first AI chat client combining SillyTavern-style character cards, LM Studio-style GGUF model management, Ollama/OpenAI-compatible APIs, and an agentic workspace.
 - [Priyanshu-byte-coder/contextrot](https://github.com/Priyanshu-byte-coder/contextrot) - Find out where your coding agent starts degrading. Personal context-rot analytics from your own sessions - 100% local, zero-config: uvx contextrot
 
+## machine-learning 
+
+- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
+
 ## macos 
 
+- [drumih/turbo-fieldfare](https://github.com/drumih/turbo-fieldfare) - Gemma 4 26B-A4B inference in ~2 GB of RAM on any M-series MacBook
 - [glfw/glfw](https://github.com/glfw/glfw) - A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input
 - [aymandakirgh/ghnotch](https://github.com/aymandakirgh/ghnotch) - Free open-source macOS notch utility with AI command bar. Media controls, calendar, file shelf, battery HUD — all in your notch. MIT license.
 - [dweep-desai/FaceGate-Mac](https://github.com/dweep-desai/FaceGate-Mac) - World's first Face Authentication enabled MacOS App-locker, completely free and open-source. Unlock your Mac apps using Face , TouchID or password. Completely local and encrypted - your data never lea
@@ -473,6 +511,7 @@
 
 ## open-source 
 
+- [meaningful-ooo/sponge](https://github.com/meaningful-ooo/sponge) - 🧽 Clean fish history from typos automatically
 - [aymandakirgh/ghnotch](https://github.com/aymandakirgh/ghnotch) - Free open-source macOS notch utility with AI command bar. Media controls, calendar, file shelf, battery HUD — all in your notch. MIT license.
 - [dweep-desai/FaceGate-Mac](https://github.com/dweep-desai/FaceGate-Mac) - World's first Face Authentication enabled MacOS App-locker, completely free and open-source. Unlock your Mac apps using Face , TouchID or password. Completely local and encrypted - your data never lea
 - [Priyanshu-byte-coder/devtrack](https://github.com/Priyanshu-byte-coder/devtrack) - Open-source developer productivity dashboard - GitHub stats, PR metrics, streaks & goals.
@@ -486,6 +525,9 @@
 
 ## others 
 
+- [artisan-build/ext-ffmpeg](https://github.com/artisan-build/ext-ffmpeg) - Native PHP extension binding the FFmpeg libraries (pure C / Zend API). An Artisan Build project.
+- [digimata/quill](https://github.com/digimata/quill) - Ultra-minimalist macOS recording + transcription.
+- [pounat/absorb](https://github.com/pounat/absorb) - A cross platform Audiobookshelf client for Android and iOS
 - [bazelbuild/bazel](https://github.com/bazelbuild/bazel) - a fast, scalable, multi-language and extensible build system
 - [actions/checkout](https://github.com/actions/checkout) - Action for checking out a repo
 - [livewire/livewire](https://github.com/livewire/livewire) - A full-stack framework for Laravel that takes the pain out of building dynamic UIs.
@@ -590,6 +632,7 @@
 
 ## python 
 
+- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
 - [rohingosling/hex-grid-tessellator](https://github.com/rohingosling/hex-grid-tessellator) - A CLI tool that generates hexagonal grid tessellation images.
 - [pumpzera/pdf-word-replacer](https://github.com/pumpzera/pdf-word-replacer) - Python CLI to replace visible PDF text with font-aware fallback and cleaner word spacing.
 - [BlackIQ/sqlalchemy_relationships](https://github.com/BlackIQ/sqlalchemy_relationships) - This repository contains simple examples of the three most common SQLAlchemy ORM relationships.
@@ -679,6 +722,7 @@
 
 ## swift 
 
+- [drumih/turbo-fieldfare](https://github.com/drumih/turbo-fieldfare) - Gemma 4 26B-A4B inference in ~2 GB of RAM on any M-series MacBook
 - [aymandakirgh/ghnotch](https://github.com/aymandakirgh/ghnotch) - Free open-source macOS notch utility with AI command bar. Media controls, calendar, file shelf, battery HUD — all in your notch. MIT license.
 - [dweep-desai/FaceGate-Mac](https://github.com/dweep-desai/FaceGate-Mac) - World's first Face Authentication enabled MacOS App-locker, completely free and open-source. Unlock your Mac apps using Face , TouchID or password. Completely local and encrypted - your data never lea
 - [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) - Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. ⭐ helps a ton :) Windows & iOS waitlist open. Linux soon.

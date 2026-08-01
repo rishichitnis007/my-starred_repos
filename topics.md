@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [agents](#agents)
 - [ai](#ai)
 - [ai-agents](#ai-agents)
 - [analytics](#analytics)
@@ -65,6 +66,7 @@
 - [java](#java)
 - [javascript](#javascript)
 - [kotlin](#kotlin)
+- [kubernetes](#kubernetes)
 - [language](#language)
 - [learning](#learning)
 - [library](#library)
@@ -74,6 +76,7 @@
 - [macos](#macos)
 - [malware](#malware)
 - [markdown](#markdown)
+- [mcp](#mcp)
 - [microsoft](#microsoft)
 - [minecraft](#minecraft)
 - [mysql](#mysql)
@@ -94,6 +97,7 @@
 - [react](#react)
 - [reactjs](#reactjs)
 - [reverse-engineering](#reverse-engineering)
+- [rust](#rust)
 - [security](#security)
 - [self-hosted](#self-hosted)
 - [server](#server)
@@ -114,11 +118,18 @@
 - [visual-studio-code](#visual-studio-code)
 - [vue](#vue)
 - [windows](#windows)
+- [wordpress](#wordpress)
 - [workflow](#workflow)
+- [youtube](#youtube)
 - [zsh](#zsh)
+
+## agents 
+
+- [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) - Next Generation Agentic Proxy for AI Agents and MCP servers
 
 ## ai 
 
+- [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) - Next Generation Agentic Proxy for AI Agents and MCP servers
 - [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) - Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. ⭐ helps a ton :) Windows & iOS waitlist open. Linux soon.
 - [Priyanshu-byte-coder/contextrot](https://github.com/Priyanshu-byte-coder/contextrot) - Find out where your coding agent starts degrading. Personal context-rot analytics from your own sessions - 100% local, zero-config: uvx contextrot
 - [oscar-castaneda-dev/oscar-castaneda-website](https://github.com/oscar-castaneda-dev/oscar-castaneda-website) - Personal website showcasing my work in full-stack development, AI, and software engineering.
@@ -392,6 +403,7 @@
 
 ## hacktoberfest 
 
+- [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) - Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed
 - [unixorn/zsh-quickstart-kit](https://github.com/unixorn/zsh-quickstart-kit) - A simple ZSH quickstart for using ZSH, zgenom, oh-my-zsh and a curated list of extra plugins. It is designed to be easy to customize without requiring you to maintain your own fork.
 - [PiyushSuthar/github-readme-quotes](https://github.com/PiyushSuthar/github-readme-quotes) - 🔥 Add Programming Quotes To Your GitHub Readme
 - [Priyanshu-byte-coder/devtrack](https://github.com/Priyanshu-byte-coder/devtrack) - Open-source developer productivity dashboard - GitHub stats, PR metrics, streaks & goals.
@@ -436,6 +448,10 @@
 ## kotlin 
 
 - [aungyelin/movie-db-kmp](https://github.com/aungyelin/movie-db-kmp) - A cross-platform movie database app built with Kotlin Multiplatform (KMP). Browse popular movies and view detailed information seamlessly across Android and iOS.
+
+## kubernetes 
+
+- [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) - Next Generation Agentic Proxy for AI Agents and MCP servers
 
 ## language 
 
@@ -487,6 +503,10 @@
 - [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) - The largest curated collection of markdown badges for your personal developer branding, profile, and projects.
 - [Anmol-Baranwal/Cool-GIFs-For-GitHub](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub) - 🤝 Awesome List of GIFs & avatars to use in GitHub.
 
+## mcp 
+
+- [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) - Next Generation Agentic Proxy for AI Agents and MCP servers
+
 ## microsoft 
 
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
@@ -525,6 +545,7 @@
 
 ## others 
 
+- [acomagu/fish-async-prompt](https://github.com/acomagu/fish-async-prompt) - Make your prompt asynchronous to improve the reactivity.
 - [artisan-build/ext-ffmpeg](https://github.com/artisan-build/ext-ffmpeg) - Native PHP extension binding the FFmpeg libraries (pure C / Zend API). An Artisan Build project.
 - [digimata/quill](https://github.com/digimata/quill) - Ultra-minimalist macOS recording + transcription.
 - [pounat/absorb](https://github.com/pounat/absorb) - A cross platform Audiobookshelf client for Android and iOS
@@ -672,6 +693,10 @@
 
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 
+## rust 
+
+- [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) - Next Generation Agentic Proxy for AI Agents and MCP servers
+
 ## security 
 
 - [dweep-desai/FaceGate-Mac](https://github.com/dweep-desai/FaceGate-Mac) - World's first Face Authentication enabled MacOS App-locker, completely free and open-source. Unlock your Mac apps using Face , TouchID or password. Completely local and encrypted - your data never lea
@@ -780,9 +805,18 @@
 
 - [glfw/glfw](https://github.com/glfw/glfw) - A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input
 
+## wordpress 
+
+- [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) - Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed
+
 ## workflow 
 
+- [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) - Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed
 - [Mergifyio/mergify](https://github.com/Mergifyio/mergify) - Mergify Community Issue Tracker
+
+## youtube 
+
+- [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) - Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed
 
 ## zsh 
 

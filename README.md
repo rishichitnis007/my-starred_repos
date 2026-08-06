@@ -153,7 +153,7 @@
 - [python/cpython](https://github.com/python/cpython) - The Python programming language
 - [pumpzera/pdf-word-replacer](https://github.com/pumpzera/pdf-word-replacer) - Python CLI to replace visible PDF text with font-aware fallback and cleaner word spacing.
 - [Herorif/GLiM](https://github.com/Herorif/GLiM) - Generative Lightweight Interaction Manifest: An RPG-style state-driven dev framework for Claude Code
-- [BlackIQ/dev-playground-blog](https://github.com/BlackIQ/dev-playground-blog) - A simple full-stack Blog application built for learning modern web development with @MaedehSKh80.
+- [BlackIQ/fastapi-playground-blog](https://github.com/BlackIQ/fastapi-playground-blog) - (FastAPI 003) A simple full-stack Blog application built for learning modern web development with @MaedehSKh80.
 - [fubaduba/vendor-performance-analyst](https://github.com/fubaduba/vendor-performance-analyst) - 
 - [Monier-Ayman/Atm-Simulator](https://github.com/Monier-Ayman/Atm-Simulator) - 
 - [BlackIQ/sqlalchemy_relationships](https://github.com/BlackIQ/sqlalchemy_relationships) - This repository contains simple examples of the three most common SQLAlchemy ORM relationships.

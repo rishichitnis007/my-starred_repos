@@ -349,6 +349,7 @@
 ## fastapi 
 
 - [redis/fastapi-redis-sdk](https://github.com/redis/fastapi-redis-sdk) - FastAPI SDK for Redis
+- [BlackIQ/fastapi-playground-blog](https://github.com/BlackIQ/fastapi-playground-blog) - (FastAPI 003) A simple full-stack Blog application built for learning modern web development with @MaedehSKh80.
 - [syfr512/SweetrollLM](https://github.com/syfr512/SweetrollLM) - Local-first AI chat client combining SillyTavern-style character cards, LM Studio-style GGUF model management, Ollama/OpenAI-compatible APIs, and an agentic workspace.
 
 ## framework 
@@ -586,7 +587,6 @@
 - [rohingosling/tank-vs-uap](https://github.com/rohingosling/tank-vs-uap) - Pixel smooth interpretation of Duane Later's original "Tank vs UFO" for the Commodore VIC-20.
 - [rafaelxo/Time-Awards](https://github.com/rafaelxo/Time-Awards) - 
 - [Herorif/GLiM](https://github.com/Herorif/GLiM) - Generative Lightweight Interaction Manifest: An RPG-style state-driven dev framework for Claude Code
-- [BlackIQ/dev-playground-blog](https://github.com/BlackIQ/dev-playground-blog) - A simple full-stack Blog application built for learning modern web development with @MaedehSKh80.
 - [fubaduba/vendor-performance-analyst](https://github.com/fubaduba/vendor-performance-analyst) - 
 - [Monier-Ayman/Atm-Simulator](https://github.com/Monier-Ayman/Atm-Simulator) - 
 - [jbeder/yaml-cpp](https://github.com/jbeder/yaml-cpp) - A YAML parser and emitter in C++
@@ -640,6 +640,7 @@
 ## postgresql 
 
 - [SrivarsanK/discordbot](https://github.com/SrivarsanK/discordbot) - A feature-rich Discord bot with an interactive web dashboard,custom LeetCode coding challenge tracking with OCR solve verification, advanced music playback (Lavalink), anti-nuke server security and  a
+- [BlackIQ/fastapi-playground-blog](https://github.com/BlackIQ/fastapi-playground-blog) - (FastAPI 003) A simple full-stack Blog application built for learning modern web development with @MaedehSKh80.
 - [BlackIQ/sqlalchemy_relationships](https://github.com/BlackIQ/sqlalchemy_relationships) - This repository contains simple examples of the three most common SQLAlchemy ORM relationships.
 - [Priyanshu-byte-coder/devtrack](https://github.com/Priyanshu-byte-coder/devtrack) - Open-source developer productivity dashboard - GitHub stats, PR metrics, streaks & goals.
 

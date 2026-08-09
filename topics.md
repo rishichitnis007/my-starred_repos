@@ -19,6 +19,7 @@
 - [awesome-list](#awesome-list)
 - [backend](#backend)
 - [bash](#bash)
+- [bot](#bot)
 - [c](#c)
 - [c-plus-plus](#c-plus-plus)
 - [chrome-extension](#chrome-extension)
@@ -118,6 +119,7 @@
 - [v2ray](#v2ray)
 - [visual-studio-code](#visual-studio-code)
 - [vue](#vue)
+- [whatsapp-bot](#whatsapp-bot)
 - [windows](#windows)
 - [wordpress](#wordpress)
 - [workflow](#workflow)
@@ -207,6 +209,10 @@
 - [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [ChristianChiarulli/machfiles](https://github.com/ChristianChiarulli/machfiles) - The dotfiles you see in all my videos
+
+## bot 
+
+- [paulovenoy/venoyBot](https://github.com/paulovenoy/venoyBot) - 💚 BOT de WhatsApp com multi-funções e comandos!
 
 ## c 
 
@@ -602,7 +608,6 @@
 - [ozankenangungor/p2p-dfs-node](https://github.com/ozankenangungor/p2p-dfs-node) - Content addressed libp2p DFS node with RocksDB storage and a local gRPC control plane
 - [Shrikant922/codecrafters-claude-code-java](https://github.com/Shrikant922/codecrafters-claude-code-java) - A from-scratch Java CLI agent with Read/Write/Bash tool-calling and an agentic loop, built via CodeCrafters using the openai-java SDK + OpenRouter (Claude Haiku 4.5).
 - [keval101/trade-tracker](https://github.com/keval101/trade-tracker) - Built a trading tracker app to help people manage their investments. Users can record deposits, withdrawals, and trades. Charts help visualize performance, and an ROI sheet generator calculates goals 
-- [paulovenoy/venoyBot](https://github.com/paulovenoy/venoyBot) - 💚 BOT de WhatsApp com multi-funções e comandos!
 - [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) - This GitHub Action creates a GitHub contribution calendar on a 3D profile image.
 - [tHeInCreDiBlEpRoGrAmMeR/amazing-stars](https://github.com/tHeInCreDiBlEpRoGrAmMeR/amazing-stars) - ⭐️ Nathaniel's list of Starred Repositories
 - [Raj-glitch-max/atlas](https://github.com/Raj-glitch-max/atlas) - 
@@ -814,6 +819,10 @@
 ## vue 
 
 - [jackson-peg/act-vite](https://github.com/jackson-peg/act-vite) - A developer framework for building Discord Activities. Handles OAuth, proxying, and participant tracking so you can focus on what matters.
+
+## whatsapp-bot 
+
+- [paulovenoy/venoyBot](https://github.com/paulovenoy/venoyBot) - 💚 BOT de WhatsApp com multi-funções e comandos!
 
 ## windows 
 

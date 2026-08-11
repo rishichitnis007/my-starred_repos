@@ -577,7 +577,7 @@
 - [Lewisscrivens/TBImGui](https://github.com/Lewisscrivens/TBImGui) - 
 - [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 - [ozankenangungor/ClearScroll](https://github.com/ozankenangungor/ClearScroll) - Local AI Chrome extension that semantically blocks distracting content in real time.
-- [rafaelxo/AEDS](https://github.com/rafaelxo/AEDS) - 
+- [rafaelxo/AEDs](https://github.com/rafaelxo/AEDs) - 
 - [SIMARSINGHRAYAT/REPOSWIPE](https://github.com/SIMARSINGHRAYAT/REPOSWIPE) - RepoSwipe: A Swipe-Based Repository Discovery Gamified Interface for Exploring Open-Source Projects on GitHub
 - [hernan0930/Super-attention-for-exemplar-based-image-colorization](https://github.com/hernan0930/Super-attention-for-exemplar-based-image-colorization) - 
 - [Jayasakthi-07/cubie-terms](https://github.com/Jayasakthi-07/cubie-terms) - 
@@ -591,7 +591,7 @@
 - [aungyelin/mHealth](https://github.com/aungyelin/mHealth) - mHealth is a demo Android application for accessing personal health data from Health Connect. App is built with Kotlin, Jetpack Compose, Navigation 3 and other modern technologies.
 - [MichaelRogerss/Shred](https://github.com/MichaelRogerss/Shred) - A lightweight, cross-compatible secure file overwrite utility written in shell. Intended for MacOS.
 - [rohingosling/tank-vs-uap](https://github.com/rohingosling/tank-vs-uap) - Pixel smooth interpretation of Duane Later's original "Tank vs UFO" for the Commodore VIC-20.
-- [rafaelxo/Time-Awards](https://github.com/rafaelxo/Time-Awards) - 
+- [rafaelxo/TimeAwards](https://github.com/rafaelxo/TimeAwards) - 
 - [Herorif/GLiM](https://github.com/Herorif/GLiM) - Generative Lightweight Interaction Manifest: An RPG-style state-driven dev framework for Claude Code
 - [fubaduba/vendor-performance-analyst](https://github.com/fubaduba/vendor-performance-analyst) - 
 - [Monier-Ayman/Atm-Simulator](https://github.com/Monier-Ayman/Atm-Simulator) - 

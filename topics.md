@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [agent](#agent)
 - [agents](#agents)
 - [ai](#ai)
 - [ai-agents](#ai-agents)
@@ -126,12 +127,17 @@
 - [youtube](#youtube)
 - [zsh](#zsh)
 
+## agent 
+
+- [macro-inc/macro](https://github.com/macro-inc/macro) - Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.
+
 ## agents 
 
 - [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) - Next Generation Agentic Proxy for AI Agents and MCP servers
 
 ## ai 
 
+- [macro-inc/macro](https://github.com/macro-inc/macro) - Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.
 - [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) - Next Generation Agentic Proxy for AI Agents and MCP servers
 - [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) - Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. ⭐ helps a ton :) Windows & iOS waitlist open. Linux soon.
 - [Priyanshu-byte-coder/contextrot](https://github.com/Priyanshu-byte-coder/contextrot) - Find out where your coding agent starts degrading. Personal context-rot analytics from your own sessions - 100% local, zero-config: uvx contextrot
@@ -139,6 +145,7 @@
 
 ## ai-agents 
 
+- [macro-inc/macro](https://github.com/macro-inc/macro) - Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.
 - [Priyanshu-byte-coder/contextrot](https://github.com/Priyanshu-byte-coder/contextrot) - Find out where your coding agent starts degrading. Personal context-rot analytics from your own sessions - 100% local, zero-config: uvx contextrot
 
 ## analytics 
@@ -523,6 +530,7 @@
 
 ## mcp 
 
+- [macro-inc/macro](https://github.com/macro-inc/macro) - Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.
 - [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) - Next Generation Agentic Proxy for AI Agents and MCP servers
 
 ## microsoft 
@@ -563,6 +571,7 @@
 
 ## others 
 
+- [antirez/h3.c](https://github.com/antirez/h3.c) - MiniMax H3 inference engine for Mac computers
 - [erincatto/box2d](https://github.com/erincatto/box2d) - Box2D is a 2D physics engine for games
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a
 - [rishichitnis007/hello-world](https://github.com/rishichitnis007/hello-world) - Hello World in all existing Programming Languages
@@ -715,6 +724,7 @@
 
 ## rust 
 
+- [macro-inc/macro](https://github.com/macro-inc/macro) - Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) - Next Generation Agentic Proxy for AI Agents and MCP servers
 - [stamparm/maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system
@@ -799,6 +809,7 @@
 
 ## typescript 
 
+- [macro-inc/macro](https://github.com/macro-inc/macro) - Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - Build production-ready applications in TypeScript
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [TanStack/router](https://github.com/TanStack/router) - 🤖 A client-first, server-capable, fully type-safe router and full-stack framework for the web (React and more).

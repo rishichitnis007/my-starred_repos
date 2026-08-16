@@ -177,7 +177,7 @@
 - [pluralsight/BlackCat](https://github.com/pluralsight/BlackCat) - Centralized reporting on GitHub dependency scanning outputs
 - [pmelson/narc](https://github.com/pmelson/narc) - 
 - [fastapi/typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - The definitive list that answers: I want to do X in Python, which tool should I use?
 - [BlackIQ/Hello-World](https://github.com/BlackIQ/Hello-World) - Hello World in different languages !
 
 ## Rust 

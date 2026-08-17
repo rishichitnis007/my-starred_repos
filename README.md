@@ -126,7 +126,6 @@
 - [Mergifyio/mergify](https://github.com/Mergifyio/mergify) - Mergify Community Issue Tracker
 - [thegreatsourcerer/github-actions](https://github.com/thegreatsourcerer/github-actions) - A collection of Actions that I think are useful
 - [tankdadank/cardian](https://github.com/tankdadank/cardian) - Discord card game bot with button driven UI, ranked play, SVS, and a companion website. Built for fair, replayable gameplay.
-- [tHeInCreDiBlEpRoGrAmMeR/amazing-stars](https://github.com/tHeInCreDiBlEpRoGrAmMeR/amazing-stars) - ⭐️ Nathaniel's list of Starred Repositories
 - [ArteffCods/How-to-completely-hide-your-Minecraft-server-plugins](https://github.com/ArteffCods/How-to-completely-hide-your-Minecraft-server-plugins) - How to hide full your minecraft plugins
 - [rishichitnis007/awesome-github-profile-actions](https://github.com/rishichitnis007/awesome-github-profile-actions) - 😎 A curated list of Awesome github profile actions
 - [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) - 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.

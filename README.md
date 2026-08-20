@@ -66,6 +66,7 @@
 - [soroushalinia/backupd](https://github.com/soroushalinia/backupd) - Declarative S3-compatible backup daemon: incremental delta backups, AES-256-GCM encryption, retention policies, cron scheduling, and hooks
 - [golang/go](https://github.com/golang/go) - The Go programming language
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
+- [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [github/gh-ost](https://github.com/github/gh-ost) - GitHub's Online Schema-migration Tool for MySQL
 - [Raj-glitch-max/atlas](https://github.com/Raj-glitch-max/atlas) - 
 - [Yash-Handa/logo-ls](https://github.com/Yash-Handa/logo-ls) - Modern ls command with vscode like File Icon and Git Integrations. Written in Golang
@@ -247,7 +248,6 @@
 - [ozankenangungor/ClearScroll](https://github.com/ozankenangungor/ClearScroll) - Local AI Chrome extension that semantically blocks distracting content in real time.
 - [SIMARSINGHRAYAT/REPOSWIPE](https://github.com/SIMARSINGHRAYAT/REPOSWIPE) - RepoSwipe: A Swipe-Based Repository Discovery Gamified Interface for Exploring Open-Source Projects on GitHub
 - [Flavionz/casa-steph-iberico](https://github.com/Flavionz/casa-steph-iberico) - Full-stack e-commerce application for authentic Spanish products. Built with React, TypeScript, Node.js, Prisma ORM, and TailwindCSS. Features product catalog, category filtering, and responsive desig
-- [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [PiyushSuthar/github-readme-quotes](https://github.com/PiyushSuthar/github-readme-quotes) - 🔥 Add Programming Quotes To Your GitHub Readme
 - [Platane/snk](https://github.com/Platane/snk) - 🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif
 - [TalVilozny/WageWise](https://github.com/TalVilozny/WageWise) - WageWise is a simple tool that reframes spending decisions in terms of time, not money.  Instead of asking “Can I afford this?”, WageWise asks a better question: “Is this worth the hours of my life it

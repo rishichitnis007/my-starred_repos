@@ -82,6 +82,7 @@
 
 ## Java 
 
+- [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open Source, Distributed, RESTful Search Engine
 - [bazelbuild/bazel](https://github.com/bazelbuild/bazel) - a fast, scalable, multi-language and extensible build system
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [rafaelxo/AEDs](https://github.com/rafaelxo/AEDs) - 
@@ -91,6 +92,7 @@
 
 ## JavaScript 
 
+- [leeoniya/uFuzzy](https://github.com/leeoniya/uFuzzy) - A tiny, efficient fuzzy search that doesn't suck
 - [rishichitnis007/hello-world](https://github.com/rishichitnis007/hello-world) - Hello World in all existing Programming Languages
 - [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) - Show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed
 - [fastify/fastify-static](https://github.com/fastify/fastify-static) - Plugin for serving static files as fast as possible
@@ -143,6 +145,8 @@
 
 ## Python 
 
+- [celery/celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
+- [youssofal/MTPLX](https://github.com/youssofal/MTPLX) - 3x faster speeds on MLX | Qwen 3.8 27B | Native MTP Speculative Decoding On Apple Silicon With No External Drafter.
 - [redis/fastapi-redis-sdk](https://github.com/redis/fastapi-redis-sdk) - FastAPI SDK for Redis
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
 - [erfansaberi/cfir-multihop-reasoning](https://github.com/erfansaberi/cfir-multihop-reasoning) - Lightweight Multi-Hop Reasoning for Composed Fashion Image Retrieval: A minimal PyTorch implementation of **Yang & Ma, "Enhanced composed fashion image retrieval with a multi-hop reasoning framework"*
@@ -241,6 +245,7 @@
 
 ## TypeScript 
 
+- [yogeshwaran01/github-stats-terminal-style](https://github.com/yogeshwaran01/github-stats-terminal-style) - Generate :octocat: Stats as like Terminal Interface with typing effects dynamically for your profile Readme
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - Build production-ready applications in TypeScript
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [actions/checkout](https://github.com/actions/checkout) - Action for checking out a repo

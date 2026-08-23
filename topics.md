@@ -64,6 +64,7 @@
 - [hacktoberfest](#hacktoberfest)
 - [home-assistant](#home-assistant)
 - [html](#html)
+- [http](#http)
 - [image-processing](#image-processing)
 - [ios](#ios)
 - [java](#java)
@@ -447,6 +448,10 @@
 
 - [BlackIQ/Hello-World](https://github.com/BlackIQ/Hello-World) - Hello World in different languages !
 
+## http 
+
+- [Kludex/starlette](https://github.com/Kludex/starlette) - The little ASGI framework that shines. 🌟
+
 ## image-processing 
 
 - [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - Community-built comprehensive 2D content creation appplication for graphic design, digital art, and interactive real-time motion graphics powered by a node-based procedural graphics engine
@@ -694,6 +699,7 @@
 
 ## python 
 
+- [Kludex/starlette](https://github.com/Kludex/starlette) - The little ASGI framework that shines. 🌟
 - [celery/celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
 - [rohingosling/hex-grid-tessellator](https://github.com/rohingosling/hex-grid-tessellator) - A CLI tool that generates hexagonal grid tessellation images.

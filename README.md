@@ -252,7 +252,7 @@
 - [actions/checkout](https://github.com/actions/checkout) - Action for checking out a repo
 - [TanStack/router](https://github.com/TanStack/router) - 🤖 A client-first, server-capable, fully type-safe router and full-stack framework for the web (React and more).
 - [ozankenangungor/ClearScroll](https://github.com/ozankenangungor/ClearScroll) - Local AI Chrome extension that semantically blocks distracting content in real time.
-- [SIMARSINGHRAYAT/REPOSWIPE](https://github.com/SIMARSINGHRAYAT/REPOSWIPE) - RepoSwipe: A Swipe-Based Repository Discovery Gamified Interface for Exploring Open-Source Projects on GitHub
+- [SIMARSINGHRAYAT/GitHubUniverse.com](https://github.com/SIMARSINGHRAYAT/GitHubUniverse.com) - RepoSwipe: A Swipe-Based Repository Discovery Gamified Interface for Exploring Open-Source Projects on GitHub
 - [Flavionz/casa-steph-iberico](https://github.com/Flavionz/casa-steph-iberico) - Full-stack e-commerce application for authentic Spanish products. Built with React, TypeScript, Node.js, Prisma ORM, and TailwindCSS. Features product catalog, category filtering, and responsive desig
 - [PiyushSuthar/github-readme-quotes](https://github.com/PiyushSuthar/github-readme-quotes) - 🔥 Add Programming Quotes To Your GitHub Readme
 - [Platane/snk](https://github.com/Platane/snk) - 🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif

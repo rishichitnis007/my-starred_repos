@@ -181,6 +181,7 @@
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
 - [pluralsight/BlackCat](https://github.com/pluralsight/BlackCat) - Centralized reporting on GitHub dependency scanning outputs
 - [pmelson/narc](https://github.com/pmelson/narc) - 
+- [stamparm/maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system
 - [fastapi/typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - The definitive list that answers "I want to do X in Python, which tool should I use?"
 - [BlackIQ/Hello-World](https://github.com/BlackIQ/Hello-World) - Hello World in different languages !
@@ -193,7 +194,6 @@
 - [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - Community-built comprehensive 2D content creation appplication for graphic design, digital art, and interactive real-time motion graphics powered by a node-based procedural graphics engine
 - [harshdoesdev/rayql](https://github.com/harshdoesdev/rayql) - RayQL is a schema definition and query language for SQLite
 - [ozankenangungor/p2p-dfs-node](https://github.com/ozankenangungor/p2p-dfs-node) - Content addressed libp2p DFS node with RocksDB storage and a local gRPC control plane
-- [stamparm/maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system
 
 ## SCSS 
 

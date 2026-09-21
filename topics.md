@@ -87,6 +87,7 @@
 - [nextjs](#nextjs)
 - [nodejs](#nodejs)
 - [open-source](#open-source)
+- [openai](#openai)
 - [opengl](#opengl)
 - [others](#others)
 - [parsing](#parsing)
@@ -241,6 +242,7 @@
 
 ## claude 
 
+- [todoforai/edge](https://github.com/todoforai/edge) - Open-source AI agent that runs on your own computer and does your tasks. Any model (Claude, GPT, Gemini, Grok, Ollama), drives your real browser, shell, files, DOCX/XLSX.
 - [Priyanshu-byte-coder/contextrot](https://github.com/Priyanshu-byte-coder/contextrot) - Find out where your coding agent starts degrading. Personal context-rot analytics from your own sessions - 100% local, zero-config: uvx contextrot
 
 ## claude-code 
@@ -545,6 +547,7 @@
 
 - [macro-inc/macro](https://github.com/macro-inc/macro) - Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.
 - [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) - Next Generation Agentic Proxy for AI Agents and MCP servers
+- [todoforai/edge](https://github.com/todoforai/edge) - Open-source AI agent that runs on your own computer and does your tasks. Any model (Claude, GPT, Gemini, Grok, Ollama), drives your real browser, shell, files, DOCX/XLSX.
 
 ## microsoft 
 
@@ -574,8 +577,13 @@
 - [aymandakirgh/ghnotch](https://github.com/aymandakirgh/ghnotch) - Free open-source macOS notch utility with AI command bar. Media controls, calendar, file shelf, battery HUD — all in your notch. MIT license.
 - [dweep-desai/FaceGate-Mac](https://github.com/dweep-desai/FaceGate-Mac) - World's first Face Authentication enabled MacOS App-locker, completely free and open-source. Unlock your Mac apps using Face , TouchID or password. Completely local and encrypted - your data never lea
 - [Priyanshu-byte-coder/devtrack](https://github.com/Priyanshu-byte-coder/devtrack) - Open-source developer productivity dashboard - GitHub stats, PR metrics, streaks & goals.
+- [todoforai/edge](https://github.com/todoforai/edge) - Open-source AI agent that runs on your own computer and does your tasks. Any model (Claude, GPT, Gemini, Grok, Ollama), drives your real browser, shell, files, DOCX/XLSX.
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
 - [jackson-peg/act-vite](https://github.com/jackson-peg/act-vite) - A developer framework for building Discord Activities. Handles OAuth, proxying, and participant tracking so you can focus on what matters.
+
+## openai 
+
+- [todoforai/edge](https://github.com/todoforai/edge) - Open-source AI agent that runs on your own computer and does your tasks. Any model (Claude, GPT, Gemini, Grok, Ollama), drives your real browser, shell, files, DOCX/XLSX.
 
 ## opengl 
 
@@ -637,7 +645,6 @@
 - [keval101/trade-tracker](https://github.com/keval101/trade-tracker) - Built a trading tracker app to help people manage their investments. Users can record deposits, withdrawals, and trades. Charts help visualize performance, and an ROI sheet generator calculates goals 
 - [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) - This GitHub Action creates a GitHub contribution calendar on a 3D profile image.
 - [Raj-glitch-max/atlas](https://github.com/Raj-glitch-max/atlas) - 
-- [todoforai/edge](https://github.com/todoforai/edge) - Edge agent for TODOforAI — shell, file ops, DOCX/XLSX, with a binary-tool-first focus.
 - [Dartians/Dart-Cheatsheet](https://github.com/Dartians/Dart-Cheatsheet) - 
 - [spaship/sidecar](https://github.com/spaship/sidecar) - 
 - [gautamkrishnar/automation-scripts](https://github.com/gautamkrishnar/automation-scripts) - Some random scripts I had written for automating stuffs

@@ -260,7 +260,7 @@
 - [codeweb-dev/spark-ui](https://github.com/codeweb-dev/spark-ui) - A collection of beautifully crafted, accessible UI components and a flexible design system. Designed for modern web applications, easy customization, and fast development. Open source and developer-fr
 - [Priyanshu-byte-coder/devtrack](https://github.com/Priyanshu-byte-coder/devtrack) - Open-source developer productivity dashboard - GitHub stats, PR metrics, streaks & goals.
 - [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) - This GitHub Action creates a GitHub contribution calendar on a 3D profile image.
-- [todoforai/edge](https://github.com/todoforai/edge) - Edge agent for TODOforAI — shell, file ops, DOCX/XLSX, with a binary-tool-first focus.
+- [todoforai/edge](https://github.com/todoforai/edge) - Open-source AI agent that runs on your own computer and does your tasks. Any model (Claude, GPT, Gemini, Grok, Ollama), drives your real browser, shell, files, DOCX/XLSX.
 - [ignaciogarcia-dev/walty](https://github.com/ignaciogarcia-dev/walty) - On-chain crypto payment platform for individuals and businesses.
 - [jackson-peg/act-vite](https://github.com/jackson-peg/act-vite) - A developer framework for building Discord Activities. Handles OAuth, proxying, and participant tracking so you can focus on what matters.
 - [oscar-castaneda-dev/oscar-castaneda-website](https://github.com/oscar-castaneda-dev/oscar-castaneda-website) - Personal website showcasing my work in full-stack development, AI, and software engineering.

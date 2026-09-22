@@ -223,7 +223,7 @@
 
 ## bot 
 
-- [paulovenoy/venoyBot](https://github.com/paulovenoy/venoyBot) - 💚 BOT de WhatsApp com multi-funções e comandos!
+- [paulovenoy/venoyBot](https://github.com/paulovenoy/venoyBot) - 💚 Bot multifuncional inteligente para WhatsApp com Baileys v7, automação de mídia, stickers e IA.
 
 ## c 
 
@@ -870,7 +870,7 @@
 
 ## whatsapp-bot 
 
-- [paulovenoy/venoyBot](https://github.com/paulovenoy/venoyBot) - 💚 BOT de WhatsApp com multi-funções e comandos!
+- [paulovenoy/venoyBot](https://github.com/paulovenoy/venoyBot) - 💚 Bot multifuncional inteligente para WhatsApp com Baileys v7, automação de mídia, stickers e IA.
 
 ## windows 
 

@@ -102,7 +102,7 @@
 - [GeanoFeeFoundry/geanos-scene-rotation](https://github.com/GeanoFeeFoundry/geanos-scene-rotation) - A Foundry VTT module to rotate entire scenes (Background, Walls, Lights, etc.) by 90 degrees.
 - [MussabPro/KanaTest](https://github.com/MussabPro/KanaTest) - A fully offline, zero-dependency web app for learning and testing Japanese Hiragana and Katakana.
 - [TalVilozny/Gifted](https://github.com/TalVilozny/Gifted) - Gifted is a web app that helps you find the perfect gift by asking a few simple questions and generating personalized recommendations.
-- [paulovenoy/venoyBot](https://github.com/paulovenoy/venoyBot) - 💚 BOT de WhatsApp com multi-funções e comandos!
+- [paulovenoy/venoyBot](https://github.com/paulovenoy/venoyBot) - 💚 Bot multifuncional inteligente para WhatsApp com Baileys v7, automação de mídia, stickers e IA.
 - [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log) - A GitHub Action that automatically updates your README file with the latest activity from your GitHub account. Customize the displayed events, set a limit on the number of events, and ignore specific 
 - [KernelShark/chameleon-ua-switcher](https://github.com/KernelShark/chameleon-ua-switcher) - 
 - [pumpzera/kick-auto-zap](https://github.com/pumpzera/kick-auto-zap) - Tampermonkey userscript that auto-switches between the live Kick channels you follow and tracks your session level/XP.

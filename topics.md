@@ -210,7 +210,7 @@
 
 ## backend 
 
-- [noel-mugisha/Spring-Auth-Service](https://github.com/noel-mugisha/Spring-Auth-Service) - A comprehensive security repo for modern Java backend applications. The only identity provider you’ll ever need.
+- [noel-mugisha/Identity-Provider](https://github.com/noel-mugisha/Identity-Provider) - A comprehensive security repo for modern Java backend applications. The only identity provider you’ll ever need.
 
 ## bash 
 
@@ -467,7 +467,7 @@
 ## java 
 
 - [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open Source, Distributed, RESTful Search Engine
-- [noel-mugisha/Spring-Auth-Service](https://github.com/noel-mugisha/Spring-Auth-Service) - A comprehensive security repo for modern Java backend applications. The only identity provider you’ll ever need.
+- [noel-mugisha/Identity-Provider](https://github.com/noel-mugisha/Identity-Provider) - A comprehensive security repo for modern Java backend applications. The only identity provider you’ll ever need.
 - [apache/netbeans](https://github.com/apache/netbeans) - Apache NetBeans
 - [BlackIQ/Hello-World](https://github.com/BlackIQ/Hello-World) - Hello World in different languages !
 
@@ -760,7 +760,7 @@
 ## security 
 
 - [dweep-desai/FaceGate-Mac](https://github.com/dweep-desai/FaceGate-Mac) - World's first Face Authentication enabled MacOS App-locker, completely free and open-source. Unlock your Mac apps using Face , TouchID or password. Completely local and encrypted - your data never lea
-- [noel-mugisha/Spring-Auth-Service](https://github.com/noel-mugisha/Spring-Auth-Service) - A comprehensive security repo for modern Java backend applications. The only identity provider you’ll ever need.
+- [noel-mugisha/Identity-Provider](https://github.com/noel-mugisha/Identity-Provider) - A comprehensive security repo for modern Java backend applications. The only identity provider you’ll ever need.
 - [pluralsight/BlackCat](https://github.com/pluralsight/BlackCat) - Centralized reporting on GitHub dependency scanning outputs
 - [stamparm/maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system
 
@@ -798,7 +798,7 @@
 
 ## spring 
 
-- [noel-mugisha/Spring-Auth-Service](https://github.com/noel-mugisha/Spring-Auth-Service) - A comprehensive security repo for modern Java backend applications. The only identity provider you’ll ever need.
+- [noel-mugisha/Identity-Provider](https://github.com/noel-mugisha/Identity-Provider) - A comprehensive security repo for modern Java backend applications. The only identity provider you’ll ever need.
 
 ## sqlite 
 

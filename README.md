@@ -87,7 +87,7 @@
 - [bazelbuild/bazel](https://github.com/bazelbuild/bazel) - a fast, scalable, multi-language and extensible build system
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [rafaelxo/AEDs](https://github.com/rafaelxo/AEDs) - 
-- [noel-mugisha/Spring-Auth-Service](https://github.com/noel-mugisha/Spring-Auth-Service) - A comprehensive security repo for modern Java backend applications. The only identity provider you’ll ever need.
+- [noel-mugisha/Identity-Provider](https://github.com/noel-mugisha/Identity-Provider) - A comprehensive security repo for modern Java backend applications. The only identity provider you’ll ever need.
 - [Shrikant922/codecrafters-claude-code-java](https://github.com/Shrikant922/codecrafters-claude-code-java) - A from-scratch Java CLI agent with Read/Write/Bash tool-calling and an agentic loop, built via CodeCrafters using the openai-java SDK + OpenRouter (Claude Haiku 4.5).
 - [apache/netbeans](https://github.com/apache/netbeans) - Apache NetBeans
 

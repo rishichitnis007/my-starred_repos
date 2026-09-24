@@ -8,6 +8,7 @@
 - [agent](#agent)
 - [agents](#agents)
 - [ai](#ai)
+- [ai-agent](#ai-agent)
 - [ai-agents](#ai-agents)
 - [analytics](#analytics)
 - [android](#android)
@@ -145,6 +146,10 @@
 - [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) - Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. Windows pre-build available! A local Wispr Flow alternative. DM us on X exclusive model access! 😉 - htt
 - [Priyanshu-byte-coder/contextrot](https://github.com/Priyanshu-byte-coder/contextrot) - Find out where your coding agent starts degrading. Personal context-rot analytics from your own sessions - 100% local, zero-config: uvx contextrot
 - [oscar-castaneda-dev/oscar-castaneda-website](https://github.com/oscar-castaneda-dev/oscar-castaneda-website) - Personal website showcasing my work in full-stack development, AI, and software engineering.
+
+## ai-agent 
+
+- [todoforai/edge](https://github.com/todoforai/edge) - Open-source AI agent that runs on your own computer and does your tasks. Any model (Claude, GPT, Gemini, Grok, Ollama), drives your real browser, shell, files, DOCX/XLSX.
 
 ## ai-agents 
 

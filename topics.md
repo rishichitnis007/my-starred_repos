@@ -252,7 +252,7 @@
 
 ## claude-code 
 
-- [youssofal/MTPLX](https://github.com/youssofal/MTPLX) - The fastest way to run Qwen 3.8 Flash Next and Qwen 3.8 27B on a Mac: 125 tok/s in OpenCode on an M5 Max. Native MTP speculative decoding on Apple Silicon, exact at any temperature. OpenAI and Anthrop
+- [youssofal/MTPLX](https://github.com/youssofal/MTPLX) - The fastest way to run Qwen 3.8 Flash Next, Qwen 3.8 27B and Ternary Bonsai 2 27B on a Mac: 125 tok/s in OpenCode on an M5 Max, and a 27B model on 16 GB Macs. Native MTP speculative decoding on Apple 
 - [Priyanshu-byte-coder/contextrot](https://github.com/Priyanshu-byte-coder/contextrot) - Find out where your coding agent starts degrading. Personal context-rot analytics from your own sessions - 100% local, zero-config: uvx contextrot
 
 ## cli 
@@ -262,6 +262,7 @@
 - [BradenM/micropy-cli](https://github.com/BradenM/micropy-cli) - Micropython Project Management Tool with VSCode support, Linting, Intellisense, Dependency Management, and more!
 - [amasen02/fastdl](https://github.com/amasen02/fastdl) - FastDL (fdl) — a fast multi-connection segmented download accelerator (CLI, .NET 10): mirror striping, resume, folder crawl, zip extract/pack.
 - [pumpzera/pdf-word-replacer](https://github.com/pumpzera/pdf-word-replacer) - Python CLI to replace visible PDF text with font-aware fallback and cleaner word spacing.
+- [todoforai/edge](https://github.com/todoforai/edge) - Open-source AI agent that runs on your own computer and does your tasks. Any model (Claude, GPT, Gemini, Grok, Ollama), drives your real browser, shell, files, DOCX/XLSX.
 - [Priyanshu-byte-coder/contextrot](https://github.com/Priyanshu-byte-coder/contextrot) - Find out where your coding agent starts degrading. Personal context-rot analytics from your own sessions - 100% local, zero-config: uvx contextrot
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [fastapi/typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
@@ -521,6 +522,7 @@
 ## llm 
 
 - [drumih/turbo-fieldfare](https://github.com/drumih/turbo-fieldfare) - Gemma 4 26B-A4B inference in ~2 GB of RAM on any M-series MacBook
+- [todoforai/edge](https://github.com/todoforai/edge) - Open-source AI agent that runs on your own computer and does your tasks. Any model (Claude, GPT, Gemini, Grok, Ollama), drives your real browser, shell, files, DOCX/XLSX.
 - [syfr512/SweetrollLM](https://github.com/syfr512/SweetrollLM) - Local-first AI chat client combining SillyTavern-style character cards, LM Studio-style GGUF model management, Ollama/OpenAI-compatible APIs, and an agentic workspace.
 - [Priyanshu-byte-coder/contextrot](https://github.com/Priyanshu-byte-coder/contextrot) - Find out where your coding agent starts degrading. Personal context-rot analytics from your own sessions - 100% local, zero-config: uvx contextrot
 
@@ -530,7 +532,7 @@
 
 ## macos 
 
-- [youssofal/MTPLX](https://github.com/youssofal/MTPLX) - The fastest way to run Qwen 3.8 Flash Next and Qwen 3.8 27B on a Mac: 125 tok/s in OpenCode on an M5 Max. Native MTP speculative decoding on Apple Silicon, exact at any temperature. OpenAI and Anthrop
+- [youssofal/MTPLX](https://github.com/youssofal/MTPLX) - The fastest way to run Qwen 3.8 Flash Next, Qwen 3.8 27B and Ternary Bonsai 2 27B on a Mac: 125 tok/s in OpenCode on an M5 Max, and a 27B model on 16 GB Macs. Native MTP speculative decoding on Apple 
 - [drumih/turbo-fieldfare](https://github.com/drumih/turbo-fieldfare) - Gemma 4 26B-A4B inference in ~2 GB of RAM on any M-series MacBook
 - [glfw/glfw](https://github.com/glfw/glfw) - A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input
 - [aymandakirgh/ghnotch](https://github.com/aymandakirgh/ghnotch) - Free open-source macOS notch utility with AI command bar. Media controls, calendar, file shelf, battery HUD — all in your notch. MIT license.

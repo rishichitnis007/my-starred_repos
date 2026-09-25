@@ -238,7 +238,7 @@
 
 ## Swift 
 
-- [digimata/quill](https://github.com/digimata/quill) - Ultra-minimalist macOS recording + transcription.
+- [humanitas-labs/quill](https://github.com/humanitas-labs/quill) - Ultra-minimalist macOS recording + transcription.
 - [drumih/turbo-fieldfare](https://github.com/drumih/turbo-fieldfare) - Gemma 4 26B-A4B inference in ~2 GB of RAM on any M-series MacBook
 - [aymandakirgh/ghnotch](https://github.com/aymandakirgh/ghnotch) - Free open-source macOS notch utility with AI command bar. Media controls, calendar, file shelf, battery HUD — all in your notch. MIT license.
 - [dweep-desai/FaceGate-Mac](https://github.com/dweep-desai/FaceGate-Mac) - World's first Face Authentication enabled MacOS App-locker, completely free and open-source. Unlock your Mac apps using Face , TouchID or password. Completely local and encrypted - your data never lea

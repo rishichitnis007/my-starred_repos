@@ -69,7 +69,7 @@
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [github/gh-ost](https://github.com/github/gh-ost) - GitHub's Online Schema-migration Tool for MySQL
-- [Raj-glitch-max/atlas](https://github.com/Raj-glitch-max/atlas) - 
+- [Raj-glitch-max/atlas](https://github.com/Raj-glitch-max/atlas) - Capability delegation and authorization for AI agents: scoped, attenuable tokens bound to SPIFFE workload identity and verified fully offline. Go, SPIRE, gRPC, MCP.
 - [Yash-Handa/logo-ls](https://github.com/Yash-Handa/logo-ls) - Modern ls command with vscode like File Icon and Git Integrations. Written in Golang
 
 ## HTML 
@@ -170,7 +170,7 @@
 - [gautamkrishnar/automation-scripts](https://github.com/gautamkrishnar/automation-scripts) - Some random scripts I had written for automating stuffs
 - [djui/alias-tips](https://github.com/djui/alias-tips) - An oh-my-zsh plugin to help remembering those aliases you defined once
 - [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints
-- [Raj-glitch-max/kubernetes-llm-incident-response-benchmark](https://github.com/Raj-glitch-max/kubernetes-llm-incident-response-benchmark) - 
+- [Raj-glitch-max/kubernetes-llm-incident-response-benchmark](https://github.com/Raj-glitch-max/kubernetes-llm-incident-response-benchmark) - Benchmark measuring whether an LLM actually reads cluster evidence before diagnosing a Kubernetes incident, or just guesses confidently. Chaos injection, evidence ablation, cross-model scoring.
 - [syfr512/SweetrollLM](https://github.com/syfr512/SweetrollLM) - Local-first AI chat client combining SillyTavern-style character cards, LM Studio-style GGUF model management, Ollama/OpenAI-compatible APIs, and an agentic workspace.
 - [Priyanshu-byte-coder/contextrot](https://github.com/Priyanshu-byte-coder/contextrot) - Find out where your coding agent starts degrading. Personal context-rot analytics from your own sessions - 100% local, zero-config: uvx contextrot
 - [Herorif/INARA](https://github.com/Herorif/INARA) - Artificial Intelligence Assistance inspired by JARVIS

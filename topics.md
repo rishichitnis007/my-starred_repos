@@ -154,6 +154,7 @@
 ## ai-agents 
 
 - [macro-inc/macro](https://github.com/macro-inc/macro) - Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.
+- [Raj-glitch-max/atlas](https://github.com/Raj-glitch-max/atlas) - Capability delegation and authorization for AI agents: scoped, attenuable tokens bound to SPIFFE workload identity and verified fully offline. Go, SPIRE, gRPC, MCP.
 - [Priyanshu-byte-coder/contextrot](https://github.com/Priyanshu-byte-coder/contextrot) - Find out where your coding agent starts degrading. Personal context-rot analytics from your own sessions - 100% local, zero-config: uvx contextrot
 
 ## analytics 
@@ -431,6 +432,7 @@
 
 - [soroushalinia/backupd](https://github.com/soroushalinia/backupd) - Declarative S3-compatible backup daemon: incremental delta backups, AES-256-GCM encryption, retention policies, cron scheduling, and hooks
 - [golang/go](https://github.com/golang/go) - The Go programming language
+- [Raj-glitch-max/atlas](https://github.com/Raj-glitch-max/atlas) - Capability delegation and authorization for AI agents: scoped, attenuable tokens bound to SPIFFE workload identity and verified fully offline. Go, SPIRE, gRPC, MCP.
 - [Yash-Handa/logo-ls](https://github.com/Yash-Handa/logo-ls) - Modern ls command with vscode like File Icon and Git Integrations. Written in Golang
 
 ## gui 
@@ -496,6 +498,7 @@
 ## kubernetes 
 
 - [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) - Next Generation Agentic Proxy for AI Agents and MCP servers
+- [Raj-glitch-max/kubernetes-llm-incident-response-benchmark](https://github.com/Raj-glitch-max/kubernetes-llm-incident-response-benchmark) - Benchmark measuring whether an LLM actually reads cluster evidence before diagnosing a Kubernetes incident, or just guesses confidently. Chaos injection, evidence ablation, cross-model scoring.
 
 ## language 
 
@@ -554,6 +557,7 @@
 
 - [macro-inc/macro](https://github.com/macro-inc/macro) - Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.
 - [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) - Next Generation Agentic Proxy for AI Agents and MCP servers
+- [Raj-glitch-max/atlas](https://github.com/Raj-glitch-max/atlas) - Capability delegation and authorization for AI agents: scoped, attenuable tokens bound to SPIFFE workload identity and verified fully offline. Go, SPIRE, gRPC, MCP.
 - [todoforai/edge](https://github.com/todoforai/edge) - Open-source AI agent that runs on your own computer and does your tasks. Any model (Claude, GPT, Gemini, Grok, Ollama), drives your real browser, shell, files, DOCX/XLSX.
 
 ## microsoft 
@@ -651,7 +655,6 @@
 - [Shrikant922/codecrafters-claude-code-java](https://github.com/Shrikant922/codecrafters-claude-code-java) - A from-scratch Java CLI agent with Read/Write/Bash tool-calling and an agentic loop, built via CodeCrafters using the openai-java SDK + OpenRouter (Claude Haiku 4.5).
 - [keval101/trade-tracker](https://github.com/keval101/trade-tracker) - Built a trading tracker app to help people manage their investments. Users can record deposits, withdrawals, and trades. Charts help visualize performance, and an ROI sheet generator calculates goals 
 - [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) - This GitHub Action creates a GitHub contribution calendar on a 3D profile image.
-- [Raj-glitch-max/atlas](https://github.com/Raj-glitch-max/atlas) - 
 - [Dartians/Dart-Cheatsheet](https://github.com/Dartians/Dart-Cheatsheet) - 
 - [spaship/sidecar](https://github.com/spaship/sidecar) - 
 - [gautamkrishnar/automation-scripts](https://github.com/gautamkrishnar/automation-scripts) - Some random scripts I had written for automating stuffs
@@ -661,7 +664,6 @@
 - [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles) - List of GitHub profiles that have awesome customisation, that you can use for inspiration
 - [sebastiencs/icons-in-terminal](https://github.com/sebastiencs/icons-in-terminal) - Use any fonts in the terminal without replacing or patching
 - [bhavinsomps/flexi](https://github.com/bhavinsomps/flexi) - A highly customizable Android Rounded Rectangle View. Supports gradient fills, animated gradient borders, corner radius, and soft shadows out-of-the-box.
-- [Raj-glitch-max/kubernetes-llm-incident-response-benchmark](https://github.com/Raj-glitch-max/kubernetes-llm-incident-response-benchmark) - 
 - [Herorif/INARA](https://github.com/Herorif/INARA) - Artificial Intelligence Assistance inspired by JARVIS
 - [KernelShark/chameleon-ua-switcher](https://github.com/KernelShark/chameleon-ua-switcher) - 
 - [Jayasakthi-07/YouTube-Downloader](https://github.com/Jayasakthi-07/YouTube-Downloader) - YouTube Downloader is a web-based tool that lets users download YouTube videos and audio in multiple formats and qualities, including HD and 4K. It supports video, audio-only, playlists, subtitles, an

@@ -310,7 +310,7 @@
 
 ## database 
 
-- [BlackIQ/sqlalchemy_relationships](https://github.com/BlackIQ/sqlalchemy_relationships) - This repository contains simple examples of the three most common SQLAlchemy ORM relationships.
+- [BlackIQ/sqlalchemy_relationships](https://github.com/BlackIQ/sqlalchemy_relationships) - Audited | This repository contains simple examples of the three most common SQLAlchemy ORM relationships.
 
 ## deep-learning 
 
@@ -377,7 +377,7 @@
 ## fastapi 
 
 - [redis/fastapi-redis-sdk](https://github.com/redis/fastapi-redis-sdk) - FastAPI SDK for Redis
-- [BlackIQ/fastapi-playground-blog](https://github.com/BlackIQ/fastapi-playground-blog) - (FastAPI 003) A simple full-stack Blog application built for learning modern web development with @MaedehSKh80.
+- [BlackIQ/fastapi-playground-blog](https://github.com/BlackIQ/fastapi-playground-blog) - Audited | (FastAPI 003) A simple full-stack Blog application built for learning modern web development with @MaedehSKh80.
 - [syfr512/SweetrollLM](https://github.com/syfr512/SweetrollLM) - Local-first AI chat client combining SillyTavern-style character cards, LM Studio-style GGUF model management, Ollama/OpenAI-compatible APIs, and an agentic workspace.
 
 ## framework 
@@ -692,8 +692,8 @@
 ## postgresql 
 
 - [SrivarsanK/discordbot](https://github.com/SrivarsanK/discordbot) - A feature-rich Discord bot with an interactive web dashboard,custom LeetCode coding challenge tracking with OCR solve verification, advanced music playback (Lavalink), anti-nuke server security and  a
-- [BlackIQ/fastapi-playground-blog](https://github.com/BlackIQ/fastapi-playground-blog) - (FastAPI 003) A simple full-stack Blog application built for learning modern web development with @MaedehSKh80.
-- [BlackIQ/sqlalchemy_relationships](https://github.com/BlackIQ/sqlalchemy_relationships) - This repository contains simple examples of the three most common SQLAlchemy ORM relationships.
+- [BlackIQ/fastapi-playground-blog](https://github.com/BlackIQ/fastapi-playground-blog) - Audited | (FastAPI 003) A simple full-stack Blog application built for learning modern web development with @MaedehSKh80.
+- [BlackIQ/sqlalchemy_relationships](https://github.com/BlackIQ/sqlalchemy_relationships) - Audited | This repository contains simple examples of the three most common SQLAlchemy ORM relationships.
 - [Priyanshu-byte-coder/devtrack](https://github.com/Priyanshu-byte-coder/devtrack) - Open-source developer productivity dashboard - GitHub stats, PR metrics, streaks & goals.
 
 ## privacy 
@@ -721,7 +721,7 @@
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
 - [rohingosling/hex-grid-tessellator](https://github.com/rohingosling/hex-grid-tessellator) - A CLI tool that generates hexagonal grid tessellation images.
 - [pumpzera/pdf-word-replacer](https://github.com/pumpzera/pdf-word-replacer) - Python CLI to replace visible PDF text with font-aware fallback and cleaner word spacing.
-- [BlackIQ/sqlalchemy_relationships](https://github.com/BlackIQ/sqlalchemy_relationships) - This repository contains simple examples of the three most common SQLAlchemy ORM relationships.
+- [BlackIQ/sqlalchemy_relationships](https://github.com/BlackIQ/sqlalchemy_relationships) - Audited | This repository contains simple examples of the three most common SQLAlchemy ORM relationships.
 - [Mergifyio/mergify](https://github.com/Mergifyio/mergify) - Mergify Community Issue Tracker
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
 - [PostHog/posthog](https://github.com/PostHog/posthog) - :hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – c

@@ -12,6 +12,7 @@
 - [ai-agents](#ai-agents)
 - [analytics](#analytics)
 - [android](#android)
+- [animation](#animation)
 - [ansible](#ansible)
 - [api](#api)
 - [archlinux](#archlinux)
@@ -167,6 +168,10 @@
 
 - [zpm-zsh/zpm](https://github.com/zpm-zsh/zpm) - Zpm— Zsh Plugin Manager
 - [aungyelin/movie-db-kmp](https://github.com/aungyelin/movie-db-kmp) - A cross-platform movie database app built with Kotlin Multiplatform (KMP). Browse popular movies and view detailed information seamlessly across Android and iOS.
+
+## animation 
+
+- [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - Community-built comprehensive 2D content creation appplication for graphic design, digital art, and interactive real-time motion graphics powered by a node-based procedural graphics engine
 
 ## ansible 
 

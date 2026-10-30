@@ -653,7 +653,7 @@
 - [thegreatsourcerer/github-actions](https://github.com/thegreatsourcerer/github-actions) - A collection of Actions that I think are useful
 - [xAwakenDeveloper/Snowy-Coordinates](https://github.com/xAwakenDeveloper/Snowy-Coordinates) - Mod that shows player current coordinates for My Winter Car.
 - [TalVilozny/WageWise](https://github.com/TalVilozny/WageWise) - WageWise is a simple tool that reframes spending decisions in terms of time, not money.  Instead of asking “Can I afford this?”, WageWise asks a better question: “Is this worth the hours of my life it
-- [rushei1/lazy-researcher-toolkit](https://github.com/rushei1/lazy-researcher-toolkit) - A full-stack AI-powered application that automatically fetches, summarizes, clusters, and formats research papers into a structured literature review — saving researchers hours of manual effort.
+- [rushei1/citewise](https://github.com/rushei1/citewise) - A full-stack AI-powered application that automatically fetches, summarizes, clusters, and formats research papers into a structured literature review — saving researchers hours of manual effort.
 - [MussabPro/KanaTest](https://github.com/MussabPro/KanaTest) - A fully offline, zero-dependency web app for learning and testing Japanese Hiragana and Katakana.
 - [TalVilozny/Gifted](https://github.com/TalVilozny/Gifted) - Gifted is a web app that helps you find the perfect gift by asking a few simple questions and generating personalized recommendations.
 - [ozankenangungor/p2p-dfs-node](https://github.com/ozankenangungor/p2p-dfs-node) - Content addressed libp2p DFS node with RocksDB storage and a local gRPC control plane

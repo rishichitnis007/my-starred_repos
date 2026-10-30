@@ -164,7 +164,7 @@
 - [fubaduba/vendor-performance-analyst](https://github.com/fubaduba/vendor-performance-analyst) - 
 - [Monier-Ayman/Atm-Simulator](https://github.com/Monier-Ayman/Atm-Simulator) - 
 - [BlackIQ/sqlalchemy_relationships](https://github.com/BlackIQ/sqlalchemy_relationships) - This repository contains simple examples of the three most common SQLAlchemy ORM relationships.
-- [rushei1/lazy-researcher-toolkit](https://github.com/rushei1/lazy-researcher-toolkit) - A full-stack AI-powered application that automatically fetches, summarizes, clusters, and formats research papers into a structured literature review — saving researchers hours of manual effort.
+- [rushei1/citewise](https://github.com/rushei1/citewise) - A full-stack AI-powered application that automatically fetches, summarizes, clusters, and formats research papers into a structured literature review — saving researchers hours of manual effort.
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
 - [PostHog/posthog](https://github.com/PostHog/posthog) - :hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – c
 - [gautamkrishnar/automation-scripts](https://github.com/gautamkrishnar/automation-scripts) - Some random scripts I had written for automating stuffs

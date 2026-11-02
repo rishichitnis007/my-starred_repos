@@ -377,7 +377,6 @@
 ## fastapi 
 
 - [redis/fastapi-redis-sdk](https://github.com/redis/fastapi-redis-sdk) - FastAPI SDK for Redis
-- [BlackIQ/fastapi-playground-blog](https://github.com/BlackIQ/fastapi-playground-blog) - (FastAPI 003) A simple full-stack Blog application built for learning modern web development with @MaedehSKh80.
 - [syfr512/SweetrollLM](https://github.com/syfr512/SweetrollLM) - Local-first AI chat client combining SillyTavern-style character cards, LM Studio-style GGUF model management, Ollama/OpenAI-compatible APIs, and an agentic workspace.
 
 ## framework 
@@ -692,7 +691,6 @@
 ## postgresql 
 
 - [SrivarsanK/discordbot](https://github.com/SrivarsanK/discordbot) - A feature-rich Discord bot with an interactive web dashboard,custom LeetCode coding challenge tracking with OCR solve verification, advanced music playback (Lavalink), anti-nuke server security and  a
-- [BlackIQ/fastapi-playground-blog](https://github.com/BlackIQ/fastapi-playground-blog) - (FastAPI 003) A simple full-stack Blog application built for learning modern web development with @MaedehSKh80.
 - [Priyanshu-byte-coder/devtrack](https://github.com/Priyanshu-byte-coder/devtrack) - Open-source developer productivity dashboard - GitHub stats, PR metrics, streaks & goals.
 
 ## privacy 

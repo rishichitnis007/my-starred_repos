@@ -125,6 +125,7 @@
 - [visual-studio-code](#visual-studio-code)
 - [vscode](#vscode)
 - [vue](#vue)
+- [whatsapp](#whatsapp)
 - [whatsapp-bot](#whatsapp-bot)
 - [windows](#windows)
 - [wordpress](#wordpress)
@@ -878,6 +879,10 @@
 ## vue 
 
 - [jackson-peg/act-vite](https://github.com/jackson-peg/act-vite) - A developer framework for building Discord Activities. Handles OAuth, proxying, and participant tracking so you can focus on what matters.
+
+## whatsapp 
+
+- [paulovenoy/venoyBot](https://github.com/paulovenoy/venoyBot) - 💚 Bot multifuncional inteligente para WhatsApp com Baileys v7, automação de mídia, stickers e IA.
 
 ## whatsapp-bot 
 

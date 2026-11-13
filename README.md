@@ -102,7 +102,7 @@
 - [GeanoFeeFoundry/geanos-scene-rotation](https://github.com/GeanoFeeFoundry/geanos-scene-rotation) - A Foundry VTT module to rotate entire scenes (Background, Walls, Lights, etc.) by 90 degrees.
 - [MussabPro/KanaTest](https://github.com/MussabPro/KanaTest) - A fully offline, zero-dependency web app for learning and testing Japanese Hiragana and Katakana.
 - [TalVilozny/Gifted](https://github.com/TalVilozny/Gifted) - Gifted is a web app that helps you find the perfect gift by asking a few simple questions and generating personalized recommendations.
-- [paulovenoy/venoyBot](https://github.com/paulovenoy/venoyBot) - 💚 Bot multifuncional inteligente para WhatsApp com Baileys v7, automação de mídia, stickers e IA.
+- [paulovenoy/venoyBot](https://github.com/paulovenoy/venoyBot) - 💙 Bot multifuncional inteligente para WhatsApp com Baileys v7, automação de mídia, stickers e IA.
 - [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log) - A GitHub Action that automatically updates your README file with the latest activity from your GitHub account. Customize the displayed events, set a limit on the number of events, and ignore specific 
 - [KernelShark/chameleon-ua-switcher](https://github.com/KernelShark/chameleon-ua-switcher) - 
 - [pumpzera/kick-auto-zap](https://github.com/pumpzera/kick-auto-zap) - Tampermonkey userscript that auto-switches between the live Kick channels you follow and tracks your session level/XP.
@@ -250,7 +250,7 @@
 - [actions/checkout](https://github.com/actions/checkout) - Action for checking out a repo
 - [TanStack/router](https://github.com/TanStack/router) - 🤖 A client-first, server-capable, fully type-safe router and full-stack framework for the web (React and more).
 - [ozankenangungor/ClearScroll](https://github.com/ozankenangungor/ClearScroll) - Local AI Chrome extension that semantically blocks distracting content in real time.
-- [SIMARSINGHRAYAT/GitHubUniverse.com](https://github.com/SIMARSINGHRAYAT/GitHubUniverse.com) - RepoSwipe: A Swipe-Based Repository Discovery Gamified Interface for Exploring Open-Source Projects on GitHub
+- [SIMARSINGHRAYAT/REPOSITORY-UNIVERSE-DISCOVERY](https://github.com/SIMARSINGHRAYAT/REPOSITORY-UNIVERSE-DISCOVERY) - RepoSwipe: A Swipe-Based Repository Discovery Gamified Interface for Exploring Open-Source Projects on GitHub
 - [Flavionz/casa-steph-iberico](https://github.com/Flavionz/casa-steph-iberico) - Full-stack e-commerce application for authentic Spanish products. Built with React, TypeScript, Node.js, Prisma ORM, and TailwindCSS. Features product catalog, category filtering, and responsive desig
 - [PiyushSuthar/github-readme-quotes](https://github.com/PiyushSuthar/github-readme-quotes) - 🔥 Add Programming Quotes To Your GitHub Readme
 - [Platane/snk](https://github.com/Platane/snk) - 🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif

@@ -235,7 +235,7 @@
 
 ## bot 
 
-- [paulovenoy/venoyBot](https://github.com/paulovenoy/venoyBot) - 💚 Bot multifuncional inteligente para WhatsApp com Baileys v7, automação de mídia, stickers e IA.
+- [paulovenoy/venoyBot](https://github.com/paulovenoy/venoyBot) - 💙 Bot multifuncional inteligente para WhatsApp com Baileys v7, automação de mídia, stickers e IA.
 
 ## c 
 
@@ -625,7 +625,7 @@
 - [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 - [ozankenangungor/ClearScroll](https://github.com/ozankenangungor/ClearScroll) - Local AI Chrome extension that semantically blocks distracting content in real time.
 - [rafaelxo/AEDs](https://github.com/rafaelxo/AEDs) - 
-- [SIMARSINGHRAYAT/GitHubUniverse.com](https://github.com/SIMARSINGHRAYAT/GitHubUniverse.com) - RepoSwipe: A Swipe-Based Repository Discovery Gamified Interface for Exploring Open-Source Projects on GitHub
+- [SIMARSINGHRAYAT/REPOSITORY-UNIVERSE-DISCOVERY](https://github.com/SIMARSINGHRAYAT/REPOSITORY-UNIVERSE-DISCOVERY) - RepoSwipe: A Swipe-Based Repository Discovery Gamified Interface for Exploring Open-Source Projects on GitHub
 - [hernan0930/Super-attention-for-exemplar-based-image-colorization](https://github.com/hernan0930/Super-attention-for-exemplar-based-image-colorization) - 
 - [Jayasakthi-07/cubie-terms](https://github.com/Jayasakthi-07/cubie-terms) - 
 - [Flavionz/casa-steph-iberico](https://github.com/Flavionz/casa-steph-iberico) - Full-stack e-commerce application for authentic Spanish products. Built with React, TypeScript, Node.js, Prisma ORM, and TailwindCSS. Features product catalog, category filtering, and responsive desig
@@ -882,11 +882,11 @@
 
 ## whatsapp 
 
-- [paulovenoy/venoyBot](https://github.com/paulovenoy/venoyBot) - 💚 Bot multifuncional inteligente para WhatsApp com Baileys v7, automação de mídia, stickers e IA.
+- [paulovenoy/venoyBot](https://github.com/paulovenoy/venoyBot) - 💙 Bot multifuncional inteligente para WhatsApp com Baileys v7, automação de mídia, stickers e IA.
 
 ## whatsapp-bot 
 
-- [paulovenoy/venoyBot](https://github.com/paulovenoy/venoyBot) - 💚 Bot multifuncional inteligente para WhatsApp com Baileys v7, automação de mídia, stickers e IA.
+- [paulovenoy/venoyBot](https://github.com/paulovenoy/venoyBot) - 💙 Bot multifuncional inteligente para WhatsApp com Baileys v7, automação de mídia, stickers e IA.
 
 ## windows 
 

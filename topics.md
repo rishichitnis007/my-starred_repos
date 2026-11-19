@@ -256,6 +256,7 @@
 
 ## chrome-extension 
 
+- [ozankenangungor/ClearScroll](https://github.com/ozankenangungor/ClearScroll) - Chrome extension that blurs text about topics you choose. Filtering runs in your browser.
 - [Gecko51/feedex](https://github.com/Gecko51/feedex) - Chrome extension for LinkedIn part of the the Gecko Mind package.
 
 ## claude 
@@ -628,7 +629,6 @@
 - [fastify/fastify-static](https://github.com/fastify/fastify-static) - Plugin for serving static files as fast as possible
 - [Lewisscrivens/TBImGui](https://github.com/Lewisscrivens/TBImGui) - 
 - [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
-- [ozankenangungor/ClearScroll](https://github.com/ozankenangungor/ClearScroll) - Local AI Chrome extension that semantically blocks distracting content in real time.
 - [rafaelxo/AEDs](https://github.com/rafaelxo/AEDs) - 
 - [SIMARSINGHRAYAT/REPOSITORY-UNIVERSE-DISCOVERY](https://github.com/SIMARSINGHRAYAT/REPOSITORY-UNIVERSE-DISCOVERY) - RepoSwipe: A Swipe-Based Repository Discovery Gamified Interface for Exploring Open-Source Projects on GitHub
 - [hernan0930/Super-attention-for-exemplar-based-image-colorization](https://github.com/hernan0930/Super-attention-for-exemplar-based-image-colorization) - 
@@ -767,6 +767,7 @@
 - [macro-inc/macro](https://github.com/macro-inc/macro) - Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) - Next Generation Agentic Proxy for AI Agents and MCP servers
+- [ozankenangungor/ClearScroll](https://github.com/ozankenangungor/ClearScroll) - Chrome extension that blurs text about topics you choose. Filtering runs in your browser.
 - [stamparm/maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system
 
 ## security 

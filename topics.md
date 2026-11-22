@@ -266,7 +266,7 @@
 
 ## claude-code 
 
-- [youssofal/MTPLX](https://github.com/youssofal/MTPLX) - The fastest way to run Qwen 3.8 Flash Next, Qwen 3.8 27B and Ternary Bonsai 2 27B on a Mac: 125 tok/s in OpenCode on an M5 Max, and a 27B model on 16 GB Macs. Native MTP speculative decoding on Apple 
+- [youssofal/MTPLX](https://github.com/youssofal/MTPLX) - The fastest way to run Inkling 2 Mini, Qwen 3.8 and Ternary Bonsai 2 27B on a Mac: Inkling 2 Mini at up to 128.8 tok/s and Flash Next at 125 tok/s in OpenCode on an M5 Max, and a 27B model on 16 GB Ma
 - [Priyanshu-byte-coder/contextrot](https://github.com/Priyanshu-byte-coder/contextrot) - Find out where your coding agent starts degrading. Personal context-rot analytics from your own sessions - 100% local, zero-config: uvx contextrot
 
 ## cli 
@@ -542,7 +542,7 @@
 
 ## macos 
 
-- [youssofal/MTPLX](https://github.com/youssofal/MTPLX) - The fastest way to run Qwen 3.8 Flash Next, Qwen 3.8 27B and Ternary Bonsai 2 27B on a Mac: 125 tok/s in OpenCode on an M5 Max, and a 27B model on 16 GB Macs. Native MTP speculative decoding on Apple 
+- [youssofal/MTPLX](https://github.com/youssofal/MTPLX) - The fastest way to run Inkling 2 Mini, Qwen 3.8 and Ternary Bonsai 2 27B on a Mac: Inkling 2 Mini at up to 128.8 tok/s and Flash Next at 125 tok/s in OpenCode on an M5 Max, and a 27B model on 16 GB Ma
 - [drumih/turbo-fieldfare](https://github.com/drumih/turbo-fieldfare) - Gemma 4 26B-A4B inference in ~2 GB of RAM on any M-series MacBook
 - [glfw/glfw](https://github.com/glfw/glfw) - A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input
 - [aymandakirgh/ghnotch](https://github.com/aymandakirgh/ghnotch) - Free open-source macOS notch utility with AI command bar. Media controls, calendar, file shelf, battery HUD — all in your notch. MIT license.

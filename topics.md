@@ -256,7 +256,7 @@
 
 ## chrome-extension 
 
-- [ozankenangungor/ClearScroll](https://github.com/ozankenangungor/ClearScroll) - Chrome extension that blurs text about topics you choose. Filtering runs in your browser.
+- [ozankenangungor/ClearScroll](https://github.com/ozankenangungor/ClearScroll) - Chrome extension that blurs webpage text and images about topics you choose — powered by local LLM & vision models right in your browser.
 - [Gecko51/feedex](https://github.com/Gecko51/feedex) - Chrome extension for LinkedIn part of the the Gecko Mind package.
 
 ## claude 
@@ -767,7 +767,7 @@
 - [macro-inc/macro](https://github.com/macro-inc/macro) - Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) - Next Generation Agentic Proxy for AI Agents and MCP servers
-- [ozankenangungor/ClearScroll](https://github.com/ozankenangungor/ClearScroll) - Chrome extension that blurs text about topics you choose. Filtering runs in your browser.
+- [ozankenangungor/ClearScroll](https://github.com/ozankenangungor/ClearScroll) - Chrome extension that blurs webpage text and images about topics you choose — powered by local LLM & vision models right in your browser.
 - [stamparm/maltrail](https://github.com/stamparm/maltrail) - Malicious traffic detection system
 
 ## security 

@@ -249,7 +249,7 @@
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [actions/checkout](https://github.com/actions/checkout) - Action for checking out a repo
 - [TanStack/router](https://github.com/TanStack/router) - 🤖 A client-first, server-capable, fully type-safe router and full-stack framework for the web (React and more).
-- [ozankenangungor/ClearScroll](https://github.com/ozankenangungor/ClearScroll) - Chrome extension that blurs text about topics you choose. Filtering runs in your browser.
+- [ozankenangungor/ClearScroll](https://github.com/ozankenangungor/ClearScroll) - Chrome extension that blurs webpage text and images about topics you choose — powered by local LLM & vision models right in your browser.
 - [SIMARSINGHRAYAT/REPOSITORY-UNIVERSE-DISCOVERY](https://github.com/SIMARSINGHRAYAT/REPOSITORY-UNIVERSE-DISCOVERY) - RepoSwipe: A Swipe-Based Repository Discovery Gamified Interface for Exploring Open-Source Projects on GitHub
 - [Flavionz/casa-steph-iberico](https://github.com/Flavionz/casa-steph-iberico) - Full-stack e-commerce application for authentic Spanish products. Built with React, TypeScript, Node.js, Prisma ORM, and TailwindCSS. Features product catalog, category filtering, and responsive desig
 - [PiyushSuthar/github-readme-quotes](https://github.com/PiyushSuthar/github-readme-quotes) - 🔥 Add Programming Quotes To Your GitHub Readme

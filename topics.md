@@ -157,7 +157,7 @@
 
 ## ai-agent 
 
-- [todoforai/edge](https://github.com/todoforai/edge) - Open-source AI agent that runs on your own computer and does your tasks. Any model (Claude, GPT, Gemini, Grok, Ollama), drives your real browser, shell, files, DOCX/XLSX.
+- [todoforai/edge](https://github.com/todoforai/edge) - Legacy local connector for TODO for AI, no longer offered as a download. Use the Bridge: github.com/todoforai/bridge
 
 ## ai-agents 
 
@@ -261,7 +261,7 @@
 
 ## claude 
 
-- [todoforai/edge](https://github.com/todoforai/edge) - Open-source AI agent that runs on your own computer and does your tasks. Any model (Claude, GPT, Gemini, Grok, Ollama), drives your real browser, shell, files, DOCX/XLSX.
+- [todoforai/edge](https://github.com/todoforai/edge) - Legacy local connector for TODO for AI, no longer offered as a download. Use the Bridge: github.com/todoforai/bridge
 - [Priyanshu-byte-coder/contextrot](https://github.com/Priyanshu-byte-coder/contextrot) - Find out where your coding agent starts degrading. Personal context-rot analytics from your own sessions - 100% local, zero-config: uvx contextrot
 
 ## claude-code 
@@ -276,7 +276,7 @@
 - [BradenM/micropy-cli](https://github.com/BradenM/micropy-cli) - Micropython Project Management Tool with VSCode support, Linting, Intellisense, Dependency Management, and more!
 - [amasen02/fastdl](https://github.com/amasen02/fastdl) - FastDL (fdl) — a fast multi-connection segmented download accelerator (CLI, .NET 10): mirror striping, resume, folder crawl, zip extract/pack.
 - [pumpzera/pdf-word-replacer](https://github.com/pumpzera/pdf-word-replacer) - Python CLI to replace visible PDF text with font-aware fallback and cleaner word spacing.
-- [todoforai/edge](https://github.com/todoforai/edge) - Open-source AI agent that runs on your own computer and does your tasks. Any model (Claude, GPT, Gemini, Grok, Ollama), drives your real browser, shell, files, DOCX/XLSX.
+- [todoforai/edge](https://github.com/todoforai/edge) - Legacy local connector for TODO for AI, no longer offered as a download. Use the Bridge: github.com/todoforai/bridge
 - [Priyanshu-byte-coder/contextrot](https://github.com/Priyanshu-byte-coder/contextrot) - Find out where your coding agent starts degrading. Personal context-rot analytics from your own sessions - 100% local, zero-config: uvx contextrot
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [fastapi/typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
@@ -532,7 +532,7 @@
 ## llm 
 
 - [drumih/turbo-fieldfare](https://github.com/drumih/turbo-fieldfare) - Gemma 4 26B-A4B inference in ~2 GB of RAM on any M-series MacBook
-- [todoforai/edge](https://github.com/todoforai/edge) - Open-source AI agent that runs on your own computer and does your tasks. Any model (Claude, GPT, Gemini, Grok, Ollama), drives your real browser, shell, files, DOCX/XLSX.
+- [todoforai/edge](https://github.com/todoforai/edge) - Legacy local connector for TODO for AI, no longer offered as a download. Use the Bridge: github.com/todoforai/bridge
 - [syfr512/SweetrollLM](https://github.com/syfr512/SweetrollLM) - Local-first AI chat client combining SillyTavern-style character cards, LM Studio-style GGUF model management, Ollama/OpenAI-compatible APIs, and an agentic workspace.
 - [Priyanshu-byte-coder/contextrot](https://github.com/Priyanshu-byte-coder/contextrot) - Find out where your coding agent starts degrading. Personal context-rot analytics from your own sessions - 100% local, zero-config: uvx contextrot
 
@@ -565,7 +565,7 @@
 - [macro-inc/macro](https://github.com/macro-inc/macro) - Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.
 - [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) - Next Generation Agentic Proxy for AI Agents and MCP servers
 - [Raj-glitch-max/atlas](https://github.com/Raj-glitch-max/atlas) - Capability delegation and authorization for AI agents: scoped, attenuable tokens bound to SPIFFE workload identity and verified fully offline. Go, SPIRE, gRPC, MCP.
-- [todoforai/edge](https://github.com/todoforai/edge) - Open-source AI agent that runs on your own computer and does your tasks. Any model (Claude, GPT, Gemini, Grok, Ollama), drives your real browser, shell, files, DOCX/XLSX.
+- [todoforai/edge](https://github.com/todoforai/edge) - Legacy local connector for TODO for AI, no longer offered as a download. Use the Bridge: github.com/todoforai/bridge
 
 ## microsoft 
 
@@ -595,13 +595,13 @@
 - [aymandakirgh/ghnotch](https://github.com/aymandakirgh/ghnotch) - Free open-source macOS notch utility with AI command bar. Media controls, calendar, file shelf, battery HUD — all in your notch. MIT license.
 - [dweep-desai/FaceGate-Mac](https://github.com/dweep-desai/FaceGate-Mac) - World's first Face Authentication enabled MacOS App-locker, completely free and open-source. Unlock your Mac apps using Face , TouchID or password. Completely local and encrypted - your data never lea
 - [Priyanshu-byte-coder/devtrack](https://github.com/Priyanshu-byte-coder/devtrack) - Open-source developer productivity dashboard - GitHub stats, PR metrics, streaks & goals.
-- [todoforai/edge](https://github.com/todoforai/edge) - Open-source AI agent that runs on your own computer and does your tasks. Any model (Claude, GPT, Gemini, Grok, Ollama), drives your real browser, shell, files, DOCX/XLSX.
+- [todoforai/edge](https://github.com/todoforai/edge) - Legacy local connector for TODO for AI, no longer offered as a download. Use the Bridge: github.com/todoforai/bridge
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
 - [jackson-peg/act-vite](https://github.com/jackson-peg/act-vite) - A developer framework for building Discord Activities. Handles OAuth, proxying, and participant tracking so you can focus on what matters.
 
 ## openai 
 
-- [todoforai/edge](https://github.com/todoforai/edge) - Open-source AI agent that runs on your own computer and does your tasks. Any model (Claude, GPT, Gemini, Grok, Ollama), drives your real browser, shell, files, DOCX/XLSX.
+- [todoforai/edge](https://github.com/todoforai/edge) - Legacy local connector for TODO for AI, no longer offered as a download. Use the Bridge: github.com/todoforai/bridge
 
 ## opengl 
 

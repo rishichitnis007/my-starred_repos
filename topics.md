@@ -257,7 +257,6 @@
 ## chrome-extension 
 
 - [ozankenangungor/ClearScroll](https://github.com/ozankenangungor/ClearScroll) - Chrome extension that blurs webpage text and images about topics you choose — powered by local LLM & vision models right in your browser.
-- [Gecko51/feedex](https://github.com/Gecko51/feedex) - Chrome extension for LinkedIn part of the the Gecko Mind package.
 
 ## claude 
 
@@ -491,7 +490,6 @@
 - [yogeshwaran01/github-stats-terminal-style](https://github.com/yogeshwaran01/github-stats-terminal-style) - Generate :octocat: Stats as like Terminal Interface with typing effects dynamically for your profile Readme
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - Build production-ready applications in TypeScript
 - [TanStack/router](https://github.com/TanStack/router) - 🤖 A client-first, server-capable, fully type-safe router and full-stack framework for the web (React and more).
-- [Gecko51/feedex](https://github.com/Gecko51/feedex) - Chrome extension for LinkedIn part of the the Gecko Mind package.
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [GeanoFeeFoundry/geanos-scene-rotation](https://github.com/GeanoFeeFoundry/geanos-scene-rotation) - A Foundry VTT module to rotate entire scenes (Background, Walls, Lights, etc.) by 90 degrees.
 - [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log) - A GitHub Action that automatically updates your README file with the latest activity from your GitHub account. Customize the displayed events, set a limit on the number of events, and ignore specific 

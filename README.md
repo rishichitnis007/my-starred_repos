@@ -231,7 +231,7 @@
 - [basecamp/xip-pdns](https://github.com/basecamp/xip-pdns) - PowerDNS pipe backend adapter powering xip.io
 - [andrew8088/dotfiles](https://github.com/andrew8088/dotfiles) - My Dotfiles
 - [hlissner/zsh-autopair](https://github.com/hlissner/zsh-autopair) - Auto-close and delete matching delimiters in zsh
-- [ChristianChiarulli/machfiles](https://github.com/ChristianChiarulli/machfiles) - The dotfiles you see in all my videos
+- [chrisatmachine/machfiles](https://github.com/chrisatmachine/machfiles) - The dotfiles you see in all my videos
 
 ## Swift 
 
